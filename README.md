@@ -11,3 +11,23 @@ You can contact me on Mastodon using the following link:
 https://infosec.exchange/@ProfCyberNaught
 
 I do not have Mastodon on my phone and only check when I am sat at my workstation at home. I do not use Twitter or Facebook so these are not additional options.
+
+## Here is my attempt to introduce myself in a light-hearted manner:
+
+Hey there!
+
+I'm a jack of all trades, trying to be a master of some. I've taught mathematics to students at university, ran a professional music studio where I helped aspiring musicians bring their talents to the world, and even started my own IT business consultancy providing tech solutions, privacy audits, and general business strategic planning solutions.
+
+But that's not all, I have degrees in Psychology, and Law, along with Post Grad in Management, have an interest in how the #hacker mind works, and attended an 18 week #cybersecurity #bootcamp (yes, I am one of those). I have many other qualifications but there are too many to list here.
+
+I'm also a tech geek who loves to get involved in code (PHP being my fav) and staying on top of the latest in cybersecurity and privacy. I started coding when I was 8 years old on the old Amstrad 464 with a green CRT monitor!
+
+When I'm not working, you can find me (well, maybe not) exploring nature on a countryside walk (I can be gone all day) or diving into a good book (interests in privacy, security, positive psychology, and fictional recreations of Roman battles). Basically, I like to keep things interesting and have my mind pondering about many different things.
+
+Looking forward to connecting with you all, and I have started a blog if you're interested:
+
+https://profcybernaught.hashnode.dev/
+
+By the way, I've never been a #Twit' ter lover and can handle a little #toot now and then. Never been a avid user of social media but looking to connect.
+
+#cybersecurity #security #privacy #coding #PHP #IT #tech
