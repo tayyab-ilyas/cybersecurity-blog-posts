@@ -12,4 +12,4 @@ Another example is that Python is a general-purpose programming language that ca
 
 In summary, a programming language is used to create software programs and applications, while a scripting language is used to automate tasks within other programs or applications. Both have their own use cases and are important tools in the software development industry.
 
-Here is the blog post link: #
+Here is the blog post link: # https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference
