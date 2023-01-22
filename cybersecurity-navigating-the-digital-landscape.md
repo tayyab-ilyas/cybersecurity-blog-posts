@@ -8,12 +8,12 @@ One of the most important steps in protecting ourselves is to be aware of the co
 
 To protect ourselves from these and other threats, there are several steps we can take:
 
-    •     Keep your software and operating system up to date: Software updates often include security patches that address vulnerabilities.
-    •     Use a strong and unique password for each of your accounts (stored in a password manager) and avoid using public Wi-Fi networks (if you must, try connect through a VPN for added privacy)
-    •     Be cautious when clicking on links or opening attachments from unknown sources (this is the quickest way to malware and ransomware)
-    •     Back up important files and data regularly (even cloud services advise you to do this)
-    •     Use a reputable antivirus software (don't disable it if a program asked you whilst installing)
-    • Be aware of the risks and educate yourself about the latest scams and threats (educate your friends and family)
+<ul><li>Keep your software and operating system up to date: Software updates often include security patches that address vulnerabilities.</li>
+<li>Use a strong and unique password for each of your accounts (stored in a password manager) and avoid using public Wi-Fi networks (if you must, try connect through a VPN for added privacy)</li>
+<li>Be cautious when clicking on links or opening attachments from unknown sources (this is the quickest way to malware and ransomware)</li>
+    <li>Back up important files and data regularly (even cloud services advise you to do this)</li>
+<li>Use a reputable antivirus software (don't disable it if a program asked you whilst installing)</li>
+<li>Be aware of the risks and educate yourself about the latest scams and threats (educate your friends and family)</li></ul>
 
 It's also important to note that cybersecurity is not just an individual responsibility, but a shared one. Businesses and organisations have a responsibility to protect their customers' and employees' personal information and should have a robust cybersecurity plan in place.
 
