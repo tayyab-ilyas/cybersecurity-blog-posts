@@ -50,11 +50,11 @@ GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a
 
 Title: <b>Cybersecurity: Navigating the Digital Landscape</b>
 Blog: https://profcybernaught.hashnode.dev/cybersecurity-navigating-the-digital-landscape
-GitHub:
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-navigating-the-digital-landscape.md
 
 Title: <b>An Overview of Leet (1337) Speak: History, Usage, and Implications</b>
 Blog: https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare.md
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/an-overview-of-leet-speak-history-usage-and-implications.md
 
 Title: <b></b>
 Blog: 
