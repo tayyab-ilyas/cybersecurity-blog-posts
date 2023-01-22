@@ -48,7 +48,7 @@ GitHub:
 
 Title: <b>An Overview of Leet (1337) Speak: History, Usage, and Implications</b>
 Blog: https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications
-GitHub: 
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare.md
 
 Title: <b></b>
 Blog: 
