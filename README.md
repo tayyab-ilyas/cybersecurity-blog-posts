@@ -31,3 +31,53 @@ https://profcybernaught.hashnode.dev/
 By the way, I've never been a #Twit' ter lover and can handle a little #toot now and then. Never been a avid user of social media but looking to connect.
 
 #cybersecurity #security #privacy #coding #PHP #IT #tech
+
+## Here is a list of the articles/blog posts within this repository:
+
+Title: <b>Why Become A Cybersecurity Engineer?</b>
+Blog: https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md
+
+Title: <b>Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare</b>
+Blog: https://profcybernaught.hashnode.dev/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md
+
+Title: <b>Cybersecurity: Navigating the Digital Landscape</b>
+Blog: https://profcybernaught.hashnode.dev/cybersecurity-navigating-the-digital-landscape
+GitHub:
+
+Title: <b>An Overview of Leet (1337) Speak: History, Usage, and Implications</b>
+Blog: https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
+
+Title: <b></b>
+Blog: 
+GitHub: 
