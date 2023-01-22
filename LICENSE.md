@@ -28,13 +28,13 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 ## Section 2 – Scope.
 
-License grant.
+<b>a. License grant.</b>
 
-Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-        reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
-        produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
+1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+        A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+        B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
         
-Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. <u>Exceptions and Limitations</u>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
 Term. The term of this Public License is specified in Section 6(a).
 
