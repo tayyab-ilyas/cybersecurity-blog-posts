@@ -56,9 +56,9 @@ Title: <b>An Overview of Leet (1337) Speak: History, Usage, and Implications</b>
 Blog: https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications
 GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/an-overview-of-leet-speak-history-usage-and-implications.md
 
-Title: <b></b>
-Blog: 
-GitHub: 
+Title: <b>Coding Focus: Programming or Scripting Languages - What is the Difference?</b>
+Blog: https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/programming-or-scripting-languages-what-is-the-difference.md
 
 Title: <b></b>
 Blog: 
