@@ -34,6 +34,12 @@ By the way, I've never been a #Twit' ter lover and can handle a little #toot now
 
 ## Here is a list of the articles/blog posts within this repository:
 
+For licensing information and usage, please refer to the LICENSE.md document within this repository linked here:
+
+https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md
+
+These articles have been listed in order of being published:
+
 Title: <b>Why Become A Cybersecurity Engineer?</b>
 Blog: https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer
 GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md
