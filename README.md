@@ -16,11 +16,11 @@ I do not have Mastodon on my phone and only check when I am sat at my workstatio
 
 Hey there!
 
-I'm a jack of all trades, trying to be a master of some. I've taught mathematics to students at university, ran a professional music studio where I helped aspiring musicians bring their talents to the world, and even started my own IT business consultancy providing tech solutions, privacy audits, and general business strategic planning solutions.
+I'm a jack of all trades, trying to be a master of some. I've taught mathematics to students at university, ran a professional music studio where I helped aspiring musicians bring their talents to the world, and even started my own IT business consultancy providing tech solutions, privacy audits, and general business strategic planning.
 
 But that's not all, I have degrees in Psychology, and Law, along with Post Grad in Management, have an interest in how the #hacker mind works, and attended an 18 week #cybersecurity #bootcamp (yes, I am one of those). I have many other qualifications but there are too many to list here.
 
-I'm also a tech geek who loves to get involved in code (PHP being my fav) and staying on top of the latest in cybersecurity and privacy. I started coding when I was 8 years old on the old Amstrad 464 with a green CRT monitor!
+I'm also a tech geek who loves to get involved in code (PHP being my fav) and staying on top of the latest in cybersecurity and privacy. I started coding when I was 8 years of age on the old Amstrad 464 with a green CRT monitor!
 
 When I'm not working, you can find me (well, maybe not) exploring nature on a countryside walk (I can be gone all day) or diving into a good book (interests in privacy, security, positive psychology, and fictional recreations of Roman battles). Basically, I like to keep things interesting and have my mind pondering about many different things.
 
