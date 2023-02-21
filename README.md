@@ -1,5 +1,7 @@
 # Articles and Blog Posts Written - by Prof Cyber Naught
 
+UPDATE NOTICE: This needs rethinking as the additional workload when creating articles and blog posts is tedious.
+
 Here is a default repository for any articles or blog posts written by Prof Cyber Naught. These could be posted on other platforms such as personal blogs, guest posts and articles, and social media platforms such as Mastodon.
 
 You can view the blog by visiting the following link:
