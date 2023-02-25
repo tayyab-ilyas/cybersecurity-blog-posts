@@ -62,13 +62,17 @@ Title: <b>Coding Focus: Programming or Scripting Languages - What is the Differe
 Blog: https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference
 GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/programming-or-scripting-languages-what-is-the-difference.md
 
+Title: <b>Cybersecurity: What is Malware?</b>
+Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md
+
 Title: <b>Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux</b>
 Blog: https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy
 GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-which-operating-system-for-security-and-privacy.md
 
-Title: <b>Cybersecurity: What is Malware?</b>
-Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md
+Title: <b></b>
+Blog: 
+GitHub: 
 
 Title: <b></b>
 Blog: 
