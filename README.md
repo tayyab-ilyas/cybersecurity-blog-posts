@@ -42,54 +42,20 @@ https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md
 
 These articles have been listed in order of being published:
 
-Title: <b>Why Become A Cybersecurity Engineer?</b>
-Blog: https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md
-
-Title: <b>Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare</b>
-Blog: https://profcybernaught.hashnode.dev/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md
-
-Title: <b>Cybersecurity: Navigating the Digital Landscape</b>
-Blog: https://profcybernaught.hashnode.dev/cybersecurity-navigating-the-digital-landscape
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-navigating-the-digital-landscape.md
-
-Title: <b>An Overview of Leet (1337) Speak: History, Usage, and Implications</b>
-Blog: https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/an-overview-of-leet-speak-history-usage-and-implications.md
-
-Title: <b>Coding Focus: Programming or Scripting Languages - What is the Difference?</b>
-Blog: https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/programming-or-scripting-languages-what-is-the-difference.md
-
-Title: <b>Cybersecurity: What is Malware?</b>
-Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md
-
-Title: <b>Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux</b>
-Blog: https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-which-operating-system-for-security-and-privacy.md
-
-Title: <b>Cybersecurity: What Colour Hacker Would You Be?</b>
-Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be
-GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-colour-hacker-would-you-be.md
-
-Title: <b></b>
-Blog: 
-GitHub: 
-
-Title: <b></b>
-Blog: 
-GitHub: 
-
-Title: <b></b>
-Blog: 
-GitHub: 
-
-Title: <b></b>
-Blog: 
-GitHub: 
-
-Title: <b></b>
-Blog: 
-GitHub: 
+| Title | Blog Link | GitHub Link | 
+| --- | --- | --- |
+| Why Become A Cybersecurity Engineer? | [Link](https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md)|
+| Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare | [Link](https://profcybernaught.hashnode.dev/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md)|
+| Cybersecurity: Navigating the Digital Landscape | [Link](https://profcybernaught.hashnode.dev/cybersecurity-navigating-the-digital-landscape)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-navigating-the-digital-landscape.md)|
+| An Overview of Leet (1337) Speak: History, Usage, and Implications | [Link](https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/an-overview-of-leet-speak-history-usage-and-implications.md)|
+| Coding Focus: Programming or Scripting Languages - What is the Difference? | [Link](https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/programming-or-scripting-languages-what-is-the-difference.md)|
+| Cybersecurity: What is Malware? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md)|
+| Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux | [Link](https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-which-operating-system-for-security-and-privacy.md)|
+| Cybersecurity: What Colour Hacker Would You Be? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-colour-hacker-would-you-be.md)|
+|  | [Link]()| [Link]()|
+|  | [Link]()| [Link]()|
+|  | [Link]()| [Link]()|
+|  | [Link]()| [Link]()|
+|  | [Link]()| [Link]()|
+|  | [Link]()| [Link]()|
+|  | [Link]()| [Link]()|
