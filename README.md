@@ -64,7 +64,7 @@ GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/programming-
 
 Title: <b>Cybersecurity: What is Malware?</b>
 Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware
-GitHub:https://github.com/Mannuel25/articles-blogs/blob/UpdatePagesContentHelp./cybersecurity-what-is-malware.md
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md
 
 Title: <b></b>
 Blog: 
