@@ -3,8 +3,8 @@
 Here is a default repository for any articles or blog posts written by Prof Cyber Naught. These could be posted on other platforms such as personal blogs, guest posts and articles, and social media platforms such as Mastodon.
 
 ## Contributor Attribution
-Author: **ProfCyberNaught**
-Copyright Owner: **ProfCyberNaught**
+Author: **ProfCyberNaught**<br />
+Copyright Owner: **ProfCyberNaught**<br />
 Administration Duties: _All other contributors provided their generous time to help me copy these articles from the main website to this repository._
 
 **Notice: I do not accept guest blog articles and have written all these articles in my own time.**
