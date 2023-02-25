@@ -17,7 +17,7 @@ You can contact me on Mastodon using the following link:
 
 [@ProCyberNaught on Mastodon](https://infosec.exchange/@ProfCyberNaught "@ProfCyberNaught on Mastodon")
 
-I do not have Mastodon on my phone and only check when I am sat at my workstation at home. I do not use Twitter or Facebook so these are not additional options.
+_I do not have Mastodon on my phone and only check when I am sat at my workstation at home. I do not use Twitter or Facebook so these are not additional options._
 
 ## Here is a list of the articles/blog posts within this repository:
 
@@ -25,8 +25,9 @@ For licensing information and usage, please refer to the LICENSE.md document wit
 
 [License Information](https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md "License Information - Prof Cyber Naught - Articles Published")
 
-These articles may not have been listed in order of being published, and some may still yet need to be copied over from the main website.<br />
-The 'attribution' column represents those contributors who copied the data over from the main website to this repository.
+These articles may not have been listed in order of being published, and some may still yet need to be copied over from the main website.<br /><br />
+The _'attribution'_ column represents those contributors who copied the data over from the main website to this repository.<br /><br />
+All articles were written by ProfCyberNaught over on the main website.
 
 | Title | Blog Link | GitHub Link | Copied By | 
 | --- | --- | --- | --- |
