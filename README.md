@@ -40,7 +40,7 @@ For licensing information and usage, please refer to the LICENSE.md document wit
 
 https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md
 
-These articles have been listed in order of being published:
+These articles may not have been listed in order of being published:
 
 Title: <b>Why Become A Cybersecurity Engineer?</b>
 Blog: https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer
