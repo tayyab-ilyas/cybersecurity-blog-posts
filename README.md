@@ -70,9 +70,9 @@ Title: <b>Cybersecurity: Which Operating System for Security and Privacy? Window
 Blog: https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy
 GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-which-operating-system-for-security-and-privacy.md
 
-Title: <b></b>
-Blog: 
-GitHub: 
+Title: <b>Cybersecurity: What Colour Hacker Would You Be?</b>
+Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-colour-hacker-would-you-be.md
 
 Title: <b></b>
 Blog: 
