@@ -22,7 +22,7 @@ These articles may not have been listed in order of being published, and some ma
 
 | Title | Blog Link | GitHub Link | 
 | --- | --- | --- |
-| Why Become A Cybersecurity Engineer? | [Link](https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md)|
+| Why Become A Cybersecurity Engineer? | [Link](https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer "Why Become A Cybersecurity Engineer?")| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md "Why Become A Cybersecurity Engineer?")|
 | Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare | [Link](https://profcybernaught.hashnode.dev/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/why-become-a-cybersecurity-engineer.md)|
 | Cybersecurity: Navigating the Digital Landscape | [Link](https://profcybernaught.hashnode.dev/cybersecurity-navigating-the-digital-landscape)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-navigating-the-digital-landscape.md)|
 | An Overview of Leet (1337) Speak: History, Usage, and Implications | [Link](https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/an-overview-of-leet-speak-history-usage-and-implications.md)|
