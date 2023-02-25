@@ -62,9 +62,9 @@ Title: <b>Coding Focus: Programming or Scripting Languages - What is the Differe
 Blog: https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference
 GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/programming-or-scripting-languages-what-is-the-difference.md
 
-Title: <b></b>
-Blog: 
-GitHub: 
+Title: <b>Cybersecurity: What is Malware?</b>
+Blog: https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware
+GitHub: https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md
 
 Title: <b></b>
 Blog: 
