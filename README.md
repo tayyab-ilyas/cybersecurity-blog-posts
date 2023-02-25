@@ -30,7 +30,6 @@ These articles may not have been listed in order of being published:
 | Cybersecurity: What is Malware? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-is-malware.md)|
 | Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux | [Link](https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-which-operating-system-for-security-and-privacy.md)|
 | Cybersecurity: What Colour Hacker Would You Be? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be)| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-colour-hacker-would-you-be.md)|
-|  | [Link]()| [Link]()|
 
 ## Here is my attempt to introduce myself in a light-hearted manner:
 
