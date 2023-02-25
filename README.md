@@ -8,7 +8,7 @@ You can view the blog by visiting the following link:
 
 You can contact me on Mastodon using the following link:
 
-[Mastodon](https://infosec.exchange/@ProfCyberNaught "@profcybernaught on Mastodon")
+[@ProCyberNaught on Mastodon](https://infosec.exchange/@ProfCyberNaught "@ProfCyberNaught on Mastodon")
 
 I do not have Mastodon on my phone and only check when I am sat at my workstation at home. I do not use Twitter or Facebook so these are not additional options.
 
