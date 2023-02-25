@@ -4,11 +4,11 @@ Here is a default repository for any articles or blog posts written by Prof Cybe
 
 You can view the blog by visiting the following link:
 
-https://profcybernaught.hashnode.dev/
+[Cybersecurity Blog](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - Prof Cyber Naught")
 
 You can contact me on Mastodon using the following link:
 
-https://infosec.exchange/@ProfCyberNaught
+[Mastodon](https://infosec.exchange/@ProfCyberNaught "@profcybernaught on Mastodon")
 
 I do not have Mastodon on my phone and only check when I am sat at my workstation at home. I do not use Twitter or Facebook so these are not additional options.
 
@@ -16,7 +16,7 @@ I do not have Mastodon on my phone and only check when I am sat at my workstatio
 
 For licensing information and usage, please refer to the LICENSE.md document within this repository linked here:
 
-https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md
+[License Information](https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md "License Information - Prof Cyber Naught - Articles Published")
 
 These articles may not have been listed in order of being published, and some may still yet need to be copied over from the main website:
 
