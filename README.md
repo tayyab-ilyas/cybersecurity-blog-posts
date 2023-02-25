@@ -18,7 +18,7 @@ For licensing information and usage, please refer to the LICENSE.md document wit
 
 https://github.com/ProfCyberNaught/articles-blogs/blob/main/LICENSE.md
 
-These articles may not have been listed in order of being published:
+These articles may not have been listed in order of being published, and some may still yet need to be copied over from the main website:
 
 | Title | Blog Link | GitHub Link | 
 | --- | --- | --- |
