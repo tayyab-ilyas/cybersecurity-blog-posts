@@ -1,3 +1,7 @@
+<!-- INSTRUCTIONS:
+
+You can use this template to see the default layout of an article, and also the table details at the bottom. Feel free to use this template and copy your data inside. -->
+
 # Main Heading
 
 ## Subtitle Heading
