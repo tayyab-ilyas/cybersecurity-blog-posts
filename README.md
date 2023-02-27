@@ -129,7 +129,7 @@ The `attribution` column represents those `contributors` who `copied the data ov
 
 ## Licensing Rights
 
-For licensing information and usage, please refer to the LICENSE.md document within this repository linked here:
+For licensing information and usage, please refer to the LICENSE.md document within this repository:
 
 [License Information](./LICENSE.md "License Information - ProfCyberNaught - Cybersecurity Blog Posts")
 
