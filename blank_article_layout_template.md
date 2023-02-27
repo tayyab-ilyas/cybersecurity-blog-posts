@@ -1,57 +1,98 @@
 <!-- This gives the ability to provide 'back to the top links -->
 <a name="readme-top"></a>
 
-<!-- INSTRUCTIONS:
+<!-- **** DO NOT EDIT ABOVE THIS LINE **** -->
 
-You can use this template to see the default layout of an article, and also the table details at the bottom. Feel free to use this template and copy your original article data inside taken from the main website.
 
-If you have any questions or need assistance, please do get in touch. I will try help as much as I can when I am available.
+
+<!-- USAGE INSTRUCTIONS:
+
+You can use this template to copy your chosen article data. Editors have find and replace functions and you can use these features to replace all instances of a particular variable code. However, it might be easier just copying your data fields into the areas replacing content between the square brackets; also removing a single instance of the square brackets (based on lack of repeated variable codes).
+
+Example of replacing variable codes:
+
+Example 1:
+Original: Test content [EXAMPLE-CODE-HERE] has been copied.
+Replaced: Test content new data here has been copied.
+
+Example 2:
+Original: Here is [[YOUR-GITHUB-USERNAME]], a contributor.
+Replaced: Here is [ProfCyberNaught], a contributor.
+
+HELPFUL HINT: If you look at example 2, the 'replaced' text still has square brackets because the 'variable code' was placed between square markdown brackets to begin with. It is important to make sure you do not accidentally remove markdown square brackets when they are needed for layout requirements.
+
+There are two locations within this template where this would apply: [[ARTICLE-TITLE]] and [[YOUR-GITHUB-USERNAME]]
+These two items when replaced should look similar to these examples: [This is a great article] and [ProfCyberNaught]
+
+Here is a list of variable codes used:
+
+[ARTICLE-TITLE] (required) (x3)
+[ARTICLE-SUBTITLE] (required) (x1)
+[ARTICLE-CONTENT] (required) (x1)
+[KEYWORD-1] (required) (x1)
+[KEYWORD-2] (required) (x1)
+[KEYWORD-3] (required) (x1)
+[KEYWORD-4] (required) (x1)
+[KEYWORD-5] (required) (x1)
+[REFERENCE-1] (optional 'as per article') (x1)
+[REFERENCE-2] (optional 'as per article') (x1)
+[REFERENCE-3] (optional 'as per article') (x1)
+[REFERENCE-4] (optional 'as per article') (x1)
+[PUBLISHED-DATE] (required) (x1)
+[COPIED-OVER-DATE] (required) (x1)
+[YOUR-GITHUB-URL-USERNAME] (required) (x2)
+[YOUR-GITHUB-URL] (required) (x1)
+
+If you have any questions or need assistance, please do get in touch by posting a comment on the issue. I will try help as much as I can.
+
+**** FEEL FREE TO DELETE THESE ABOVE INSTRUCTIONS!!! ****
 
 -->
 
-# Example Main Heading (using one #)
+<!-- Add main article title between tags - taken from top of article -->
+<!-- Main Title -->
+# [ARTICLE-TITLE]
+<!-- Main Title -->
 
-## Example Subtitle Heading (using two ##)
+<!-- Add article sub title between tags - taken from top of article underneath main title -->
+<!-- Sub Title -->
+## [ARTICLE-SUBTITLE]
+<!-- Sub Title -->
 
-Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout.
+<!-- Enter article content between tags - taken from main article body -->
+<!-- Content -->
 
-<!-- Example divider line (must have line space above and below, using three hyphens -->
-Example horizontal line (using three dashes and must have line space above and below)
+[ARTICLE-CONTENT]
 
----
-
-### Example Subheading (using three ###)
-
-Example paragraph text here to demonstrate further content layout including **bold font** and _italics font_. Example paragraph text here to demonstrate further content layout including **bold font** and _italics font_. Example paragraph text here to demonstrate further content layout including **bold font** and _italics font_.
-
-- **List Item 1:** Example list item with bold beginning
-- _List Item 2:_ Example list item with italics beginning
-
-<!-- Enter Keywords Below - taken from original blog post located at the bottom of each article page (this is for SEO purposes -->
-Example keyword list layout:
-#### | [KEYWORD] | [KEYWORD] | [KEYWORD] | [KEYWORD] | [KEYWORD] |
+<!-- Content -->
 
 ---
 
-**Example Reference List:**
-
-- Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.
-- Kamvar, S. D., Haveliwala, T. H., & Garcia-Molina, H. (2003). The EigenTrust Algorithm for Reputation Management in P2P
-- Steinkuehler, C. (2006). Leet Speak and Online Communities. Journal of Computer-Mediated Communication, 11(3).
-- Bruns, A. (2008). Leet Speak and Online Censorship
+<!-- Enter Keywords Below - taken from the bottom of each article page -->
+#### | [KEYWORD-1] | [KEYWORD-2] | [KEYWORD-3] | [KEYWORD-4] | [KEYWORD-5] |
 
 ---
+<!-- Delete everything between 'references' tags if the article does not have a reference section -->
+<!-- References -->
+**References:**
+
+- [REFERENCE-1]
+- [REFERENCE-2]
+- [REFERENCE-3]
+- [REFERENCE-4]
+
+---
+
+<!-- References -->
 
 <!-- Table containing blog article details - including the person whom copied it over from the main website -->
-Example blog article table details required on each copy made:
-
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
-| --- | --- | --- | -- | --- | --- |
-| [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](# "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| -------------- | -------------- | ------- | ---------------- | --------- | ---------- | <!-- <<<<< **** DO NOT DELETE THIS LINE **** -->
+| [PUBLISHED-DATE] | [[ARTICLE-TITLE]](# "[ARTICLE-TITLE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-USERNAME]]([YOUR-GITHUB-URL] "[YOUR-GITHUB-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
-<!-- DATA FORMAT: Feb 25, 2023 -->
-<!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
+
+
+<!-- **** DO NOT EDIT BELOW THIS LINE **** -->
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link and 'back to contents' link -->
-<p align="right">Example links required at the bottom of each blog article page:</p>
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>
