@@ -38,7 +38,7 @@ If you have any questions or need assistance, please do get in touch. I will try
 
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By |
 | --- | --- | --- | -- | --- |
-| Feb 25, 2023 | [Link](# "Article Title Here") | [Link](https://profcybernaught.hashnode.dev/license-usage "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Feb 25, 2023 | [<account-name>](# "<account-name> on GitHub") |
+| Feb 25, 2023 | [Link](# "Article Title Here") | [Link](https://profcybernaught.hashnode.dev/license-usage "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Feb 25, 2023 | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
