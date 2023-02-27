@@ -1,3 +1,6 @@
+<!-- This gives the ability to provide 'back to the top links -->
+<a name="readme-top"></a>
+
 <!-- INSTRUCTIONS:
 
 You can use this template to see the default layout of an article, and also the table details at the bottom. Feel free to use this template and copy your original article data inside taken from the main website.
@@ -36,3 +39,6 @@ If you have any questions or need assistance, please do get in touch. I will try
 | Copyright Date | Blog Link | License | 
 | --- | --- | --- |
 | Feb 25, 2023 | [Link](# "Article Title Here") | [Link](https://profcybernaught.hashnode.dev/license-usage "License Agreement - Cybersecurity Blog - ProfCyberNaught") |
+
+<!-- HELP NOTICE: All sections must end with the 'back to top' link -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
