@@ -57,8 +57,8 @@ Designed using Dark Mode: [Enable Now](https://github.com/settings/appearance "E
     ·
     <a href="./SUPPORT.md">Support Available</a>
     <!-- SECURITY ISSUES LINK: IF YOU DO NOT INTEND TO USE SECURITY DOCUMENTATION, DISABLE THIS SECTION -->
-    ·
-    <!-- <a href="https://github.com/ProfCyberNaught/cybersecurity-blog-posts/security/policy">Security Issues</a> -->
+    <!--·
+    <a href="https://github.com/ProfCyberNaught/cybersecurity-blog-posts/security/policy">Security Issues</a> -->
     <!---->
   </p>
 </div>
