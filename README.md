@@ -63,7 +63,7 @@ The _'attribution'_ column represents those contributors who copied the data ove
 [stars-url]: https://github.com/ProfCyberNaught/articles-blogs/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
 [issues-url]: https://github.com/ProfCyberNaught/articles-blogs/issues
-[license-shield]: https://img.shields.io/github/license/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License:%20CC%20BY%20NC%20ND%204.0-green?style=for-the-badge
 [license-url]: ./LICENSE
 [Contributor-Covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
 [Contributor-Covenant-url]: #
