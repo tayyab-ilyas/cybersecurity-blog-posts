@@ -50,4 +50,4 @@ If you have any questions or need assistance, please do get in touch. I will try
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>
