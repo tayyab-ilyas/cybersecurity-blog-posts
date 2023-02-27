@@ -16,7 +16,7 @@ Cybersecurity Blog Posts = 'Cybersecurity Blog Posts'
 [![Contributions][contributions]][contributions-url]
 [![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]
 
-Designed using: [Dark Mode Theme](https://github.com/settings/appearance "Enable Dark Mode")
+Designed using Dark Mode: [Enable Now](https://github.com/settings/appearance "Enable Dark Mode")
 
 <!-- PROJECT LOGO -->
 <br />
