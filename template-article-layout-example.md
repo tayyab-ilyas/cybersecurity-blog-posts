@@ -36,9 +36,9 @@ If you have any questions or need assistance, please do get in touch. I will try
 
 <p>Mazim latine te eam, cu quando argumentum has, ex aeque similique conceptam his. Ius ea magna deserunt pertinax, quis verear consequat nam at. At erat omnis graeco eum, modo nullam percipitur nec te. Tollit decore quo no, illud eloquentiam ei est, duo et posse libris. Eam ignota incorrupte ad.</p>
 
-| Copyright Date | Blog Link | License | 
+| Published Date | Blog Link | License | Date Copied Over |
 | --- | --- | --- |
-| Feb 25, 2023 | [Link](# "Article Title Here") | [Link](https://profcybernaught.hashnode.dev/license-usage "License Agreement - Cybersecurity Blog - ProfCyberNaught") |
+| Feb 25, 2023 | [Link](# "Article Title Here") | [Link](https://profcybernaught.hashnode.dev/license-usage "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Feb 25, 2023 |
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
