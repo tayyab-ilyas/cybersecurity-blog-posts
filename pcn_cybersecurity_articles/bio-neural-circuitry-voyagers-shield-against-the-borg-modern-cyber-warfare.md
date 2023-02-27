@@ -36,5 +36,5 @@ In the end, Voyager's bio-neural circuitry proved to be its greatest asset, as w
 <!-- DATA FORMAT: Feb 25, 2023 -->
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
-<!-- HELP NOTICE: All sections must end with the 'back to top' link -->
+<!-- HELP NOTICE: All sections must end with the 'back to top' link and 'back to contents' link -->
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>

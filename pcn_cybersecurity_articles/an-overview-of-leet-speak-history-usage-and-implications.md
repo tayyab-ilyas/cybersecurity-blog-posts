@@ -41,7 +41,6 @@ Additionally, it was used to circumvent online text filters used in forums, game
 - Steinkuehler, C. (2006). Leet Speak and Online Communities. Journal of Computer-Mediated Communication, 11(3).
 - Bruns, A. (2008). Leet Speak and Online Censorship
 
-
 ---
 
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
