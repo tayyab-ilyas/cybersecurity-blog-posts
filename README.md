@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+[![Contributions][contributions]][contributions-url]
+[![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]
+
 # Articles and Blog Posts Written - by Prof Cyber Naught
 
 Here is a default repository for any articles or blog posts written by Prof Cyber Naught. These could be posted on other platforms such as personal blogs, guest posts and articles, and social media platforms such as Mastodon.
@@ -42,3 +50,20 @@ The _'attribution'_ column represents those contributors who copied the data ove
 | Cybersecurity: What Colour Hacker Would You Be? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be "Cybersecurity: What Colour Hacker Would You Be?")| [Link](https://github.com/ProfCyberNaught/articles-blogs/blob/main/cybersecurity-what-colour-hacker-would-you-be.md "Cybersecurity: What Colour Hacker Would You Be?")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
 
 [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
+
+[contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/code-commenting-policy.svg?style=for-the-badge
+[contributors-url]: https://github.com/ProfCyberNaught/code-commenting-policy/graphs/contributors
+[contributions]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
+[contributions-url]: ./CONTRIBUTING.md
+[discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/code-commenting-policy.svg?style=for-the-badge
+[discussions-url]: https://github.com/ProfCyberNaught/code-commenting-policy/discussions
+[forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/code-commenting-policy.svg?style=for-the-badge
+[forks-url]: https://github.com/ProfCyberNaught/code-commenting-policy/network/members
+[stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/code-commenting-policy.svg?style=for-the-badge
+[stars-url]: https://github.com/ProfCyberNaught/code-commenting-policy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/code-commenting-policy.svg?style=for-the-badge
+[issues-url]: https://github.com/ProfCyberNaught/code-commenting-policy/issues
+[license-shield]: https://img.shields.io/github/license/ProfCyberNaught/code-commenting-policy.svg?style=for-the-badge
+[license-url]: ./LICENSE
+[Contributor-Covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
+[Contributor-Covenant-url]: #
