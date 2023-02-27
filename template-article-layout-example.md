@@ -16,6 +16,7 @@ If you have any questions or need assistance, please do get in touch. I will try
 Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout.
 
 <!-- Example divider line (must have line space above and below, using three hyphens -->
+Example horizontal line (using three dashes and must have line space above and below)
 
 ---
 
@@ -27,11 +28,12 @@ Example paragraph text here to demonstrate further content layout including **bo
 - _List Item 2:_ Example list item with italics beginning
 
 <!-- Enter Keywords Below - taken from original blog post located at the bottom of each article page (this is for SEO purposes -->
+Example keyword list layout:
 #### | [KEYWORD] | [KEYWORD] | [KEYWORD] | [KEYWORD] | [KEYWORD] |
 
 ---
 
-**Example References List:**
+**Example Reference List:**
 
 - Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.
 - Kamvar, S. D., Haveliwala, T. H., & Garcia-Molina, H. (2003). The EigenTrust Algorithm for Reputation Management in P2P
