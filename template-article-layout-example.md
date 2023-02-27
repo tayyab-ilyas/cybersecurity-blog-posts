@@ -53,4 +53,5 @@ Example blog article table details required on each copy made:
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link and 'back to contents' link -->
+<p align="right">Example links required at the bottom of each blog article page:</p>
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>
