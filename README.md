@@ -145,6 +145,7 @@ Website Link: [https://profcybernaught.hashnode.dev/](https://profcybernaught.ha
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- ATTRIBUTION -->
 # Attribution:
 
 This **Cybersecurity Blog Posts** project was created by **@ProfCyberNaught**. This project has been distributed via the **@ProfCyberNaught GitHub repository** found by visiting the following link: [Cybersecurity Blog Posts - ProfCyberNaught - GitHub Repository](https://github.com/ProfCyberNaught/cybersecurity-blog-posts "Cybersecurity Blog Posts - ProfCyberNaught - GitHub Repository")
@@ -161,40 +162,42 @@ If you decide to use this project, please do **leave the attribution comments in
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Contributor Attribution
-**Author:** ProfCyberNaught<br />
-**Copyright Owner:** ProfCyberNaught<br />
-**Administration Duties:** _All other contributors provided their generous time to help me copy these articles from the main website to this repository._
+<!-- MARKDOWN LINKS & IMAGES -->
 
-**Notice: I do not accept guest blog articles and have written all these articles in my own time.**
+<!-- Contributors Total -->
+[contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/cybersecurity-blog-posts.svg?style=for-the-badge
+[contributors-url]: https://github.com/ProfCyberNaught/cybersecurity-blog-posts/graphs/contributors
 
-You can view the blog by visiting the following link:
-
-[Cybersecurity Blog](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - Prof Cyber Naught")
-
-You can contact me on Mastodon using the following link:
-
-[@ProCyberNaught on Mastodon](https://infosec.exchange/@ProfCyberNaught "@ProfCyberNaught on Mastodon")
-
-_I do not have Mastodon on my phone and only check when I am sat at my workstation at home. I do not use Twitter or Facebook so these are not additional options._
-
-
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
-[contributors-url]: https://github.com/ProfCyberNaught/articles-blogs/graphs/contributors
+<!-- Contributions Total -->
 [contributions]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [contributions-url]: ./CONTRIBUTING.md
-[discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
-[discussions-url]: https://github.com/ProfCyberNaught/articles-blogs/discussions
-[forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
-[forks-url]: https://github.com/ProfCyberNaught/articles-blogs/network/members
-[stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
-[stars-url]: https://github.com/ProfCyberNaught/articles-blogs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
-[issues-url]: https://github.com/ProfCyberNaught/articles-blogs/issues
+
+<!-- Discussions Total -->
+[discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/cybersecurity-blog-posts.svg?style=for-the-badge
+[discussions-url]: https://github.com/ProfCyberNaught/cybersecurity-blog-posts/discussions
+
+<!-- Folks Total -->
+[forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/cybersecurity-blog-posts.svg?style=for-the-badge
+[forks-url]: https://github.com/ProfCyberNaught/cybersecurity-blog-posts/network/members
+
+<!-- Stars Total -->
+[stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/cybersecurity-blog-posts.svg?style=for-the-badge
+[stars-url]: https://github.com/ProfCyberNaught/cybersecurity-blog-posts/stargazers
+
+<!-- Issues Total -->
+[issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/cybersecurity-blog-posts.svg?style=for-the-badge
+[issues-url]: https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues
+
+<!-- LICENSING LINK: If you intend to use an open-source license from: https://choosealicense.com/ use the following: -->
+<!-- [license-shield]: https://img.shields.io/github/license/ProfCyberNaught/cybersecurity-blog-posts.svg?style=for-the-badge -->
+<!-- OTHERWISE: You will need to create your own link reference based on the license code used - example below: -->
 [license-shield]: https://img.shields.io/badge/License:%20CC%20BY%20NC%20ND%204.0-grey?style=for-the-badge
+<!-- HELP NOTICE: Leave the following license link as all license files will be named the same -->
 [license-url]: ./LICENSE
-[Contributor-Covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
-[Contributor-Covenant-url]: ./code_of_conduct.md
+
+<!-- Code of Conduct -->
+[contributor-covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
+[contributor-covenant-url]: ./code_of_conduct.md
+
+<!-- Project Screenshot -->
+[project-screenshot]: pcn_images/pcn_cybersecurity-blog-posts_screenshot.png
