@@ -66,4 +66,4 @@ The _'attribution'_ column represents those contributors who copied the data ove
 [license-shield]: https://img.shields.io/badge/License:%20CC%20BY%20NC%20ND%204.0-grey?style=for-the-badge
 [license-url]: ./LICENSE
 [Contributor-Covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
-[Contributor-Covenant-url]: #
+[Contributor-Covenant-url]: ./code_of_conduct.md
