@@ -91,7 +91,7 @@ Designed using: [Dark Mode Theme](https://github.com/settings/appearance "Enable
 This project is running to `support` those new to the `GitHub` platform and are wishing to `learn` how to carry out certain tasks. This means, people who are `new` to the platform and `need some help`, can `folk` the repository, copy an `article` over from the `main website`, and `submit` their first or beginner `pull request`.<br /><br />
 By `contributing` does not mean those people have co-authored the Cybersecurity Blog Posts. All blog posts were `written by ProfCyberNaught`, and `copyright` remains with ProfCyberNaught.
 
-If you wish to contribute to this `open-source project`, please read our contributions documentation: [Contribution Documents](./CONTRIBUTING.md "Contribution Documents")
+If you wish to contribute to this `open-source project`: [Contribution Documents](./CONTRIBUTING.md "Contribution Documents")
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
