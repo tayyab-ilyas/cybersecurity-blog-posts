@@ -19,7 +19,7 @@ Example 2:
 Original: Here is [[YOUR-GITHUB-USERNAME]], a contributor.
 Replaced: Here is [ProfCyberNaught], a contributor.
 
-HELPFUL HINT: If you look at example 2, the 'replaced' text still has square brackets because the 'variable code' was placed between square markdown brackets to begin with. It is important to make sure you do not accidentally remove markdown square brackets when they are needed for layout requirements.
+**** HELPFUL HINT **** If you look at example 2, the 'replaced' text still has square brackets because the 'variable code' was placed between square markdown brackets to begin with. It is important to make sure you do not accidentally remove markdown square brackets when they are needed for layout requirements.
 
 There are two locations within this template where this would apply: [[ARTICLE-TITLE]] and [[YOUR-GITHUB-USERNAME]]
 These two items when replaced should look similar to these examples: [This is a great article] and [ProfCyberNaught]
@@ -45,7 +45,7 @@ Here is a list of variable codes used:
 
 If you have any questions or need assistance, please do get in touch by posting a comment on the issue. I will try help as much as I can.
 
-**** FEEL FREE TO DELETE THESE ABOVE INSTRUCTIONS!!! ****
+**** FEEL FREE TO DELETE THE ABOVE INSTRUCTIONS!!! ****
 
 -->
 
