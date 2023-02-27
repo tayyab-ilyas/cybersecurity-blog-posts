@@ -1,10 +1,12 @@
 # An Overview of Leet Speak: History, Usage, and Implications
 
+## Substitution, special codes, and secret speak
+
 Leet Speak, also known as 1337 speak or leetspeak, is a form of online slang that substitutes letters in words with numbers and special characters. It originated in the early days of the internet as a way for hackers and gamers to communicate in secret. According to Raymond (1996), Leet Speak was first used by hackers as a form of online shorthand, allowing them to communicate with each other in a way that was difficult for outsiders to understand.
 
 Leet Speak level 1 typically replaces letters with numbers that resemble them, such as "e" with "3" or "a" with "4". For example, the word "hello" would be written as "h3ll0". This substitution of letters with numbers and special characters is also known as "Leetification" (Kamvar, et al, 2003).
 
-ASCII characters are used to represent letters, numbers, and special characters in Leet Speak. These characters are represented by a unique code, and can be used to create a variety of different symbols and letters. According to Asciitable.com (n.d.), the ASCII character set consists of 128 characters, including letters, numbers, punctuation marks, and control codes.
+ASCII characters are used to represent letters, numbers, and special characters in Leet Speak. These characters are represented by a unique code, and can be used to create a variety of different symbols and letters. According to [Asciitable.com](http://asciitable.com/ "Asciitable.com") (n.d.), the ASCII character set consists of 128 characters, including letters, numbers, punctuation marks, and control codes.
 
 Leet Speak can be used in a variety of ways, such as in online gaming, social media, and in online forums. However, it is important to note that using Leet Speak can make text harder to read and can impede effective communication. According to Steinkuehler (2006), Leet Speak can create a barrier to communication between members of an online community and also create a sense of exclusivity.
 
@@ -16,11 +18,23 @@ In conclusion, Leet Speak is a form of online slang that originated in the early
 
 Additionally, it was used to circumvent online text filters used in forums, games, online chats, and other commonly known services.
 
+---
+
 <b>References:</b>
 
-<ul><li>Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.</li>
+<ul>
+<li>Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.</li>
 <li>Kamvar, S. D., Haveliwala, T. H., & Garcia-Molina, H. (2003). The EigenTrust Algorithm for Reputation Management in P2P</li>
 <li>Steinkuehler, C. (2006). Leet Speak and Online Communities. Journal of Computer-Mediated Communication, 11(3).</li>
-  <li>Bruns, A. (2008). Leet Speak and Online Censorship</li></ul>
-    
-Here is the blog post link: https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications
+<li>Bruns, A. (2008). Leet Speak and Online Censorship</li>
+</ul>
+
+| Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
+| --- | --- | --- | -- | --- | --- |
+| [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](https://github.com/[YOUR-GITHUB-URL-USERNAME] "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+
+<!-- DATA FORMAT: Feb 25, 2023 -->
+<!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
+
+<!-- HELP NOTICE: All sections must end with the 'back to top' link -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
