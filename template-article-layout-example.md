@@ -47,7 +47,7 @@ Example blog article table details required on each copy made:
 
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | --- | --- | --- | -- | --- | --- |
-| [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](https://github.com/[YOUR-GITHUB-URL-USERNAME] "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](# "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- DATA FORMAT: Feb 25, 2023 -->
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
