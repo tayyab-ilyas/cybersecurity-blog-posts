@@ -34,14 +34,13 @@ Additionally, it was used to circumvent online text filters used in forums, game
 
 ---
 
-<b>References:</b>
+**References:**
 
-<ul>
-<li>Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.</li>
-<li>Kamvar, S. D., Haveliwala, T. H., & Garcia-Molina, H. (2003). The EigenTrust Algorithm for Reputation Management in P2P</li>
-<li>Steinkuehler, C. (2006). Leet Speak and Online Communities. Journal of Computer-Mediated Communication, 11(3).</li>
-<li>Bruns, A. (2008). Leet Speak and Online Censorship</li>
-</ul>
+- Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.
+- Kamvar, S. D., Haveliwala, T. H., & Garcia-Molina, H. (2003). The EigenTrust Algorithm for Reputation Management in P2P
+- Steinkuehler, C. (2006). Leet Speak and Online Communities. Journal of Computer-Mediated Communication, 11(3).
+- Bruns, A. (2008). Leet Speak and Online Censorship
+
 
 ---
 
@@ -52,5 +51,5 @@ Additionally, it was used to circumvent online text filters used in forums, game
 <!-- DATA FORMAT: Feb 25, 2023 -->
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
-<!-- HELP NOTICE: All sections must end with the 'back to top' link -->
+<!-- HELP NOTICE: All sections must end with the 'back to top' link and 'back to contents' link -->
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>
