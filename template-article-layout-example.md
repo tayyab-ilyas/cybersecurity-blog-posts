@@ -9,35 +9,34 @@ If you have any questions or need assistance, please do get in touch. I will try
 
 -->
 
-# Main Heading
+# Example Main Heading (using one #)
 
-## Subtitle Heading
+## Example Subtitle Heading (using two ##)
 
-<p>Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo, his tritani offendit ponderum ex. Graece facilisi invenire no eam, docendi consulatu sea an. Noster labitur dolores qui cu. Ex falli constituto duo, mea in prima legendos vituperatoribus. Ius at nibh eirmod intellegebat.</p>
+Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout. Example paragraph text here to demonstrate further content layout.
 
-### Subheadings
+<!-- Example divider line (must have line space above and below, using three hyphens -->
 
-<p>Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo, his tritani offendit ponderum ex. Graece facilisi invenire no eam, docendi consulatu sea an. Noster labitur dolores qui cu. Ex falli constituto duo, mea in prima legendos vituperatoribus. Ius at nibh eirmod intellegebat.</p>
+---
 
-<ul>
-  <li><b>List Item 1:</b> Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo.</li>
-  <li><b>List Item 2:</b> Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo.</li>
-  <li><b>List Item 3:</b> Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo.</li>
-  <li><b>List Item 4:</b> Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo.</li>
-</ul>
+### Example Subheading (using three ###)
 
-<p>Lorem ipsum dolor sit amet, ex eos choro **aliquid partiendo**, dolorum dignissim ut quo, his tritani offendit ponderum ex. Graece facilisi invenire no eam, docendi consulatu sea an. Noster labitur dolores qui cu. _Ex falli constituto_ duo, mea in prima legendos vituperatoribus. Ius at nibh eirmod intellegebat.</p>
+Example paragraph text here to demonstrate further content layout including **bold font** and _italics font_. Example paragraph text here to demonstrate further content layout including **bold font** and _italics font_. Example paragraph text here to demonstrate further content layout including **bold font** and _italics font_.
 
-### Subheadings
+- **List Item 1:** Example list item with bold beginning
+- _List Item 2:_ Example list item with italics beginning
 
-<p>Lorem ipsum dolor sit amet, ex eos choro aliquid partiendo, dolorum dignissim ut quo, his tritani offendit ponderum ex. Graece facilisi invenire no eam, docendi consulatu sea an. Noster labitur dolores qui cu. Ex falli constituto duo, mea in prima legendos vituperatoribus. Ius at nibh eirmod intellegebat.</p>
-
-<p>Et solum persius posidonium mei, mea no veniam fastidii copiosae. Ad pro aliquam facilisis qualisque, eum facer dolorum cu. Cu elitr principes sed, duo velit everti te. Nec ne numquam euismod, porro appareat sit et. Ponderum neglegentur ne sea. No euismod aliquam facilisis pri.</p>
-
-<p>Mazim latine te eam, cu quando argumentum has, ex aeque similique conceptam his. Ius ea magna deserunt pertinax, quis verear consequat nam at. At erat omnis graeco eum, modo nullam percipitur nec te. Tollit decore quo no, illud eloquentiam ei est, duo et posse libris. Eam ignota incorrupte ad.</p>
-
-<!-- Enter Keywords Below -->
+<!-- Enter Keywords Below - taken from original blog post located at the bottom of each article page (this is for SEO purposes -->
 #### | [KEYWORD] | [KEYWORD] | [KEYWORD] | [KEYWORD] | [KEYWORD] |
+
+---
+
+**Example References List:**
+
+- Raymond, E. S. (1996). The New Hacker's Dictionary. Cambridge, MA: MIT Press.
+- Kamvar, S. D., Haveliwala, T. H., & Garcia-Molina, H. (2003). The EigenTrust Algorithm for Reputation Management in P2P
+- Steinkuehler, C. (2006). Leet Speak and Online Communities. Journal of Computer-Mediated Communication, 11(3).
+- Bruns, A. (2008). Leet Speak and Online Censorship
 
 ---
 
@@ -49,5 +48,5 @@ If you have any questions or need assistance, please do get in touch. I will try
 <!-- DATA FORMAT: Feb 25, 2023 -->
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
-<!-- HELP NOTICE: All sections must end with the 'back to top' link -->
+<!-- HELP NOTICE: All sections must end with the 'back to top' link and 'back to contents' link -->
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>
