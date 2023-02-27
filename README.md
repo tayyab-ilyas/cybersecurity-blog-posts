@@ -70,8 +70,9 @@ Designed using: [Dark Mode Theme](https://github.com/settings/appearance "Enable
   <ol>
   <!-- HELP NOTICE: If you need more links, copy and paste from this list, create your section below, then add the section link tag
        Do not forget to update all the tag links if you change names of the sections below -->
-    <li><a href="#about-cubersecurity-blog-posts">About Cybersecurity Blog Posts</a></li>
-    <li><a href="#table-example">Table Example</a></li>
+    <li><a href="#about-the-cybersecurity-blog-posts">About Cybersecurity Blog Posts</a></li>
+    <li><a href="#a-list-of-cybersecurity-blog-posts-in-this-repository">Cybersecurity Blog Posts</a></li>
+    <li><a href="#licensing-rights">Licensing Rights</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#attribution">Attributions</a></li>
   </ol>
