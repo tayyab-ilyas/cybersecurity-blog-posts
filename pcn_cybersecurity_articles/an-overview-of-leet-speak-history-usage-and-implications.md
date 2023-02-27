@@ -33,7 +33,7 @@ Additionally, it was used to circumvent online text filters used in forums, game
 
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | --- | --- | --- | -- | --- | --- |
-| [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](https://github.com/[YOUR-GITHUB-URL-USERNAME] "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| Jan 22, 2023 | [An Overview of Leet (1337) Speak: History, Usage, and Implications](https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications "An Overview of Leet (1337) Speak: History, Usage, and Implications") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Jan 22, 2023 | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- DATA FORMAT: Feb 25, 2023 -->
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
