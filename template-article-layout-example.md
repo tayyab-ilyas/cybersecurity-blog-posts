@@ -43,6 +43,8 @@ Example keyword list layout:
 ---
 
 <!-- Table containing blog article details - including the person whom copied it over from the main website -->
+Example blog article table details required on each copy made:
+
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | --- | --- | --- | -- | --- | --- |
 | [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](https://github.com/[YOUR-GITHUB-URL-USERNAME] "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
