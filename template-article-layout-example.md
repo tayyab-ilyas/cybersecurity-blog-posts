@@ -38,7 +38,10 @@ If you have any questions or need assistance, please do get in touch. I will try
 
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | --- | --- | --- | -- | --- | --- |
-| Feb 25, 2023 | [[Article Title Here]](# "Article Title Here") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Feb 25, 2023 | [GitHub Username](# "Username on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| [PUBLISHED-DATE] | [[ARTICLE-TITLE-HERE]](# "[ARTICLE-TITLE-HERE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-URL-USERNAME]](https://github.com/[YOUR-GITHUB-URL-USERNAME] "[YOUR-GITHUB-URL-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+
+<!-- DATA FORMAT: Feb 25, 2023 -->
+<!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
