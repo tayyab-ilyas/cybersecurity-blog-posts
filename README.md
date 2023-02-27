@@ -51,19 +51,19 @@ The _'attribution'_ column represents those contributors who copied the data ove
 
 [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/article-blogs.svg?style=for-the-badge
-[contributors-url]: https://github.com/ProfCyberNaught/article-blogs/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
+[contributors-url]: https://github.com/ProfCyberNaught/articles-blogs/graphs/contributors
 [contributions]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [contributions-url]: ./CONTRIBUTING.md
-[discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/article-blogs.svg?style=for-the-badge
-[discussions-url]: https://github.com/ProfCyberNaught/article-blogs/discussions
-[forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/article-blogs.svg?style=for-the-badge
-[forks-url]: https://github.com/ProfCyberNaught/article-blogs/network/members
-[stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/article-blogs.svg?style=for-the-badge
-[stars-url]: https://github.com/ProfCyberNaught/article-blogs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/article-blogs.svg?style=for-the-badge
-[issues-url]: https://github.com/ProfCyberNaught/article-blogs/issues
-[license-shield]: https://img.shields.io/github/license/ProfCyberNaught/article-blogs.svg?style=for-the-badge
+[discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
+[discussions-url]: https://github.com/ProfCyberNaught/articles-blogs/discussions
+[forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
+[forks-url]: https://github.com/ProfCyberNaught/articles-blogs/network/members
+[stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
+[stars-url]: https://github.com/ProfCyberNaught/articles-blogs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
+[issues-url]: https://github.com/ProfCyberNaught/articles-blogs/issues
+[license-shield]: https://img.shields.io/github/license/ProfCyberNaught/articles-blogs.svg?style=for-the-badge
 [license-url]: ./LICENSE
 [Contributor-Covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
 [Contributor-Covenant-url]: #
