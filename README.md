@@ -150,9 +150,10 @@ Website Link: [https://profcybernaught.hashnode.dev/](https://profcybernaught.ha
 This **Cybersecurity Blog Posts** project was created by **@ProfCyberNaught**. This project has been distributed via the **@ProfCyberNaught GitHub repository** found by visiting the following link: [Cybersecurity Blog Posts - ProfCyberNaught - GitHub Repository](https://github.com/ProfCyberNaught/cybersecurity-blog-posts "Cybersecurity Blog Posts - ProfCyberNaught - GitHub Repository")
 
 **NOTICE:**<br />
-- **All Posts Written By:** written by ProfCyberNaught
+- **All Posts Written By:** ProfCyberNaught
 - **First Published:** Master Blog Website: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")
 - **Copyright Owner:** ProfCyberNaught
+- **Contributors:** No contributor gains any copyright by copying blog posts into this project
 
 If you decide to use this project, please do **leave the attribution comments intact or add them to your project**.
 
