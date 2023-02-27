@@ -87,7 +87,7 @@ If you have any questions or need assistance, please do get in touch by posting 
 
 <!-- Table containing blog article details - including the person whom copied it over from the main website -->
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
-| -------------- | -------------- | ------- | ---------------- | --------- | ---------- | <!-- <<<<< **** DO NOT DELETE THIS LINE **** -->
+| -------------- | -------------- | ------- | ---------------- | --------- | ---------- |
 | [PUBLISHED-DATE] | [[ARTICLE-TITLE]](# "[ARTICLE-TITLE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-USERNAME]]([YOUR-GITHUB-URL] "[YOUR-GITHUB-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 
