@@ -93,7 +93,7 @@ If you want to delete these usage instructions, please delete everything between
 
 <!-- TASK: Add article keywords below - taken from the bottom of each article page -->
 <!-- KEYWORDS -->
-#### | [KEYWORD-1] | [KEYWORD-2] | [KEYWORD-3] | [KEYWORD-4] | [KEYWORD-5] |
+#### KEYWORD TAGS: | [KEYWORD-1] | [KEYWORD-2] | [KEYWORD-3] | [KEYWORD-4] | [KEYWORD-5] |
 <!-- KEYWORDS -->
 
 
