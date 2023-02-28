@@ -44,7 +44,7 @@ Additionally, it was used to circumvent online text filters used in forums, game
 
 <!-- TASK: Add article keywords below - taken from the bottom of each article page -->
 <!-- KEYWORDS -->
-#### ARTICLE KEYWORD TAGS: | leetcode | cypher | leetspeak | leetification | 1337 speak |
+#### KEYWORD TAGS: | leetcode | cypher | leetspeak | leetification | 1337 speak |
 <!-- KEYWORDS -->
 
 
