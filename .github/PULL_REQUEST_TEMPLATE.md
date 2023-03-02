@@ -3,7 +3,7 @@ name: Pull request
 about: Create your pull request for this project
 title: "[PULLS][NEW ARTICLE]"
 labels: "Documentation"
-assignees: ProfCyberNaught
+assignees: "ProfCyberNaught"
 ---
 
 Please use the following template to help submit your `new article` Pull request. **FEEL FREE TO DELETE THIS SENTENCE!**
