@@ -52,3 +52,5 @@ If yes, please provide us with your additional details considered:
 
 **Additional Information**
 If yes, please provide the additional information you would like to include in your pull request:
+
+**Thank you for taking the time to copy an article from the main website over to this repository. Your assistance is very much appreciated.**
