@@ -207,4 +207,4 @@ If you decide to use this project, please do **leave the attribution comments in
 [contributor-covenant-url]: ./code_of_conduct.md
 
 <!-- Project Screenshot -->
-[project-screenshot]: pcn_images/pcn_cybersecurity-blog-posts_screenshot.png
+[project-screenshot]: https://user-images.githubusercontent.com/123184999/222932524-f7d42839-cfc8-4ee5-9404-b436a6b1eaf9.png
