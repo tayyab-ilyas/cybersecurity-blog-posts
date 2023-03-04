@@ -82,7 +82,7 @@ Designed using Dark Mode: [Enable Now](https://github.com/settings/appearance "E
 ## About the Cybersecurity Blog Posts
 
 <!-- SCREENSHOT IMAGE: IF YOU DO NOT INTEND TO DISPLAY SCREENSHOTS, DISABLE THIS SECTION -->
-[![Cybersecurity Blog Posts Screenshot][project-screenshot]](pcn_images/pcn_cybersecurity-blog-posts_screenshot.png)
+[![Cybersecurity Blog Posts Screenshot][project-screenshot]](https://user-images.githubusercontent.com/123184999/222932524-f7d42839-cfc8-4ee5-9404-b436a6b1eaf9.png)
 <!---->
 
 Maintaining a blog focused on cybersecurity, security, and privacy is an admirable pursuit. In today's increasingly connected world, the need for individuals and organisations to secure their digital assets has never been more pressing. Cybersecurity threats can come in many forms, from phishing emails to sophisticated hacking attempts, and the consequences of a breach can be devastating. By sharing our knowledge and experience in this area, we are helping to educate and empower others to take proactive steps to protect themselves.
