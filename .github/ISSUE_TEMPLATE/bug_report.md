@@ -1,11 +1,3 @@
-<!-- Account LOGO -->
-<div align="center">
-  <a href="https://github.com/ProfCyberNaught">
-    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="250" height="250">
-  </a>
-</div>
-
-
 ---
 name: Bug report
 about: Create a report to help us improve
@@ -13,6 +5,13 @@ title: "[BUG]"
 labels: bug
 assignees: ProfCyberNaught
 ---
+
+<!-- Account LOGO -->
+<div align="center">
+  <a href="https://github.com/ProfCyberNaught">
+    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="250" height="250">
+  </a>
+</div>
 
 **Describe the bug**
 A clear and concise description of what the bug is.
