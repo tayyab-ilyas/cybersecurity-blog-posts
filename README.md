@@ -18,11 +18,11 @@ Cybersecurity Blog Posts = 'Cybersecurity Blog Posts'
 
 Designed using Dark Mode: [Enable Now](https://github.com/settings/appearance "Enable Dark Mode")
 
-<!-- PROJECT LOGO -->
+<!-- Account LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ProfCyberNaught/cybersecurity-blog-posts">
-    <img src="pcn_images/pcn_cybersecurity-blog-posts_logo.png" alt="Cybersecurity Blog Posts - ProfCyberNaught" width="80" height="80">
+  <a href="https://github.com/ProfCyberNaught">
+    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="250" height="250">
   </a>
 
 <!-- PROJECT TITLE -->
