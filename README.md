@@ -84,7 +84,7 @@ Designed using Dark Mode: [Enable Now](https://github.com/settings/appearance "E
 <!-- SCREENSHOT IMAGE: IF YOU DO NOT INTEND TO DISPLAY SCREENSHOTS, DISABLE THIS SECTION -->
 <div align="center">
   <a href="https://github.com/ProfCyberNaught">
-    <img src="https://user-images.githubusercontent.com/123184999/222932524-f7d42839-cfc8-4ee5-9404-b436a6b1eaf9.png" alt="ProfCyberNaught of Cybernaught Industries" width="250" height="250">
+    <img src="https://user-images.githubusercontent.com/123184999/222932524-f7d42839-cfc8-4ee5-9404-b436a6b1eaf9.png" alt="ProfCyberNaught of Cybernaught Industries" width="600" height="400">
   </a>
  </div>
 <!---->
