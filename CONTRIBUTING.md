@@ -109,7 +109,7 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 **STEP 1:**
 
-- Check the [TODO.md](# "Remaining Articles to Copy") file 
+- Check the [TODO.md](./TODO.md "Remaining Articles to Copy") file 
     - Choose article you wish to copy
         - Check the `issue comments` section
             - Make sure nobody else has started to copy this article
