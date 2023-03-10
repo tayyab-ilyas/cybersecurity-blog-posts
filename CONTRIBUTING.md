@@ -1,8 +1,16 @@
 <!-- This gives the ability to provide 'back to the top links -->
 <a name="readme-top"></a>
 
-Contributing to the Cybersecurity Blog Posts
-============================================
+<!-- Account LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ProfCyberNaught">
+    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="250" height="250">
+  </a>
+</div>
+
+Contributing to the Cybersecurity Blog Posts Repo
+=================================================
 
 This repository has been created to store copies of all articles posted on the main cybersecurity website. This allows us to have a backup of all articles published, and provides a great first issue concept for those beginning on their GitHub journey.
 
