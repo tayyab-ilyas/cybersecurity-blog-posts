@@ -20,7 +20,7 @@ _You must make sure you not only check this list of article status indicators, b
 | Title | Blog Link | Status |
 | ----- | --------- | ------ |
 | Implications of Government Scanning Private Data Regardless of Platform | [VIEW](https://profcybernaught.hashnode.dev/implications-of-government-scanning-private-data-regardless-of-platform "Implications of Government Scanning Private Data Regardless of Platform - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
-| Open Source or Closed Source Software? | [VIEW]([ARTICLE-LINK] "Open Source or Closed Source Software? - ProfCyberNaught - Cybersecurity Blog") | Not Copied |
+| Open Source or Closed Source Software? | [VIEW]([ARTICLE-LINK] "Open Source or Closed Source Software? - ProfCyberNaught - Cybersecurity Blog") | :x: |
 | [ARTICLE-TITLE] | [VIEW](https://profcybernaught.hashnode.dev/open-source-or-closed-source-software "[ARTICLE TITLE] - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | Email Encryption: OpenPGP, S/MIME and TLS | [VIEW](https://profcybernaught.hashnode.dev/email-encryption-openpgp-smime-and-tls "Email Encryption: OpenPGP, S/MIME and TLS - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | Navigating the Digital World: Understanding Online Privacy, Security and How to Protect It | [VIEW](https://profcybernaught.hashnode.dev/navigating-the-digital-world-understanding-online-privacy-security-and-how-to-protect-it "Navigating the Digital World: Understanding Online Privacy, Security and How to Protect It - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
