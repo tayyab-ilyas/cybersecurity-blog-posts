@@ -52,7 +52,10 @@ If you wish to get involved in this project and copy over one of the articles fr
     <li><a href="#using-the-blank-article-template-file">Using Blank Article Template File</a></li>
     <li><a href="#update-readmemd-file">Update README.md File</a></li>
     <li><a href="#update-todomd-file">Update TODO.md File</a></li>
-    <li><a href="#final-contribution-steps">Final Contrubution Steps</a></li>
+    <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
+    <li><a href="#next-steps">Next Steps After Pull Request</a></li>
+    <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
+    <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
   </ol>
 <br /><br />
 
