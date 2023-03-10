@@ -40,6 +40,24 @@ Contributing to the Cybersecurity Project
 =========================================
 
 If you wish to get involved in this project and copy over one of the articles from the main cybersecurity blog, you must follow the below steps to complete the process.
+<br /><br />
+
+<!-- TABLE OF CONTENTS -->
+#### Table of Contents
+  <ol>
+  <!-- HELP NOTICE: If you need more links, copy and paste from this list, create your section below, then add the section link tag
+       Do not forget to update all the tag links if you change names of the sections below -->
+    <li><a href="#folk-this-repository--create-new-branch">Folk Repository - Create New Branch</a></li>
+    <li><a href="#choosing-an-article">Choosing an Article</a></li>
+    <li><a href="#using-the-blank-article-template-file">Using Blank Article Template File</a></li>
+    <li><a href="#update-readmemd-file">Update README.md File</a></li>
+    <li><a href="#update-todomd-file">Update TODO.md File</a></li>
+    <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
+    <li><a href="#next-steps">Next Steps after Pull Request</a></li>
+    <li><a href="#support">Need Support?</a></li>
+    <li><a href="#code-of-conduct">Code of Conduct</a></li>
+  </ol>
+<br /><br />
 
 We have implemented a **blank_article_layout_template.md** file stored in the main repository directory. You can view the file, add the required data, then update the main README.md and TODO.md tables to reflect changes made. Then submit a pull request.
 <br /><br />
@@ -84,6 +102,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 - Switch to the new branch name `NewArticleBackupPage` 
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 #### CHOOSING AN ARTICLE
 
@@ -100,6 +120,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 - Add a comment to the issue 
     - Let people know you are going to copy an article 
     - Provide the article title in your comment 
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 #### USING THE BLANK ARTICLE TEMPLATE FILE
@@ -132,6 +154,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Use commit description: `Copied a new article over from the main website` 
 - Commit changes to `NewArticleBackupPage`
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 #### UPDATE README.md FILE
 
@@ -158,6 +182,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Use commit description: `Updated the README.md file to add newly copied article` 
 - Commit changes to `NewArticleBackupPage`
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 #### UPDATE TODO.md FILE
 
@@ -181,6 +207,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Use commit title: `Updated TODO.md`
         - Use commit description: `Updated the TODO.md file to change status of newly copied article` 
 - Commit changes to `NewArticleBackupPage`
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 #### FINAL CONTRIBUTION STEPS
@@ -209,16 +237,24 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Add any other information you feel is needed (if any)
     - Submit your `pull request`
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
-**NEXT STEPS**
+#### NEXT STEPS
 
 Now you can sit back and wait for us to `review` your pull request submission. If we find issues with your submission, we will `request changes` on your pull. If we are satisfied with your request, we will `merge` your new branch `your-github-profile-name/cybersecurity-blog-posts/NewArticleBackupPage` with our `ProfCyberNaught/cybersecurity-blog-posts/main` branch.
 
 We always leave reviews and comments for all our pull requests. Thank you for volunteering your time to copy over a main article and submitting the required data as detailed above.
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
-**Support**
+#### Support
 
 If you need support whilst you are creating your new copied article data, or following the detailed steps provided above, please `leave a comment on your issue`. We will try advise as much as we can to allow you to successfully complete your pull request.
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 
 Code of Conduct
