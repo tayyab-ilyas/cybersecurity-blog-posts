@@ -187,6 +187,7 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
         - Add any additional documentation ideas (if any)
         - Add any other information you feel is needed (if any)
     - Submit your `pull request`
+<br />
 
 **NEXT STEPS**
 
