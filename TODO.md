@@ -51,7 +51,9 @@ _You must make sure you not only check this list of article status indicators, b
 <!--
 | [ARTICLE-TITLE] | [VIEW]([ARTICLE-LINK] "[ARTICLE TITLE] - ProfCyberNaught - Cybersecurity Blog") | Not Copied |<!-- Divider -->
 
-**Notice:** This page must be updated each time an article is published on the main Cybersecurity Blog: [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")
+<br /><br />
+**_Notice:_** _This page must be updated each time an article is published on the main Cybersecurity Blog: [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")_
+<br /><br />
 
 <!-- HELP NOTICE: All pages must end with the 'back to top' and 'back to contents' links -->
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../">back to contents</a>)</p>
