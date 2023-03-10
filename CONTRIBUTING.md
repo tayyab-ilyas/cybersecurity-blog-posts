@@ -40,7 +40,7 @@ Contributing to the Cybersecurity Project
 =========================================
 
 If you wish to get involved in this project and copy over one of the articles from the main cybersecurity blog, you must follow the below steps to complete the process.
-
+<br /><br />
 
 <!-- TABLE OF CONTENTS -->
 #### Table of Contents
