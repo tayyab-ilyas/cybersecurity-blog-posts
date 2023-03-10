@@ -51,6 +51,7 @@ If you are not familiar with `GitHub Desktop`, please follow this link for furth
 
 If you prefer to learn the `GitHub Client commands`, please follow this link for further details: [GitHub Usage Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository "GitHub Usage Instructions")
 
+<br /><br />
 **Please follow the below steps to contribute:**
 <br /><br />
 
