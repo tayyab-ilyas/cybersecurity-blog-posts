@@ -41,6 +41,21 @@ Contributing to the Cybersecurity Project
 
 If you wish to get involved in this project and copy over one of the articles from the main cybersecurity blog, you must follow the below steps to complete the process.
 
+
+<!-- TABLE OF CONTENTS -->
+#### Table of Contents
+  <ol>
+  <!-- HELP NOTICE: If you need more links, copy and paste from this list, create your section below, then add the section link tag
+       Do not forget to update all the tag links if you change names of the sections below -->
+    <li><a href="#folk-this-repository--create-new-branch">Folk Repository - Create New Branch</a></li>
+    <li><a href="#choosing-an-article">Choosing an Article</a></li>
+    <li><a href="#using-the-blank-article-template-file">Using Blank Article Template File</a></li>
+    <li><a href="#update-readmemd-file">Update README.md File</a></li>
+    <li><a href="#update-todomd-file">Update TODO.md File</a></li>
+    <li><a href="#final-contribution-steps">Final Contrubution Steps</a></li>
+  </ol>
+<br /><br />
+
 We have implemented a **blank_article_layout_template.md** file stored in the main repository directory. You can view the file, add the required data, then update the main README.md and TODO.md tables to reflect changes made. Then submit a pull request.
 <br /><br />
 
