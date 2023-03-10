@@ -45,6 +45,10 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
 
 If you are not familiar with `Markdown Syntax`, please follow this link for further details: [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide")
 
+If you are not familiar with GitHub Desktop, please follow this link for further details: [GitHub Desktop - Usage Instructions](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop "GitHub Desktop - Usage Instructions")
+
+If you prefer to learn the GitHub Client commands, please follow this link for further details: [GitHub Usage Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository "GitHub Usage Instructions")
+
 **Please follow the below steps to contribute:**
 <br /><br />
 
