@@ -3,11 +3,11 @@ Contributing to the Cybersecurity Blog Posts
 
 This repository has been created to store copies of all articles posted on the main cybersecurity website. This allows us to have a backup of all articles published, and provides a great first issue concept for those beginning on their GitHub journey.
 
-What will this contribution require:
+**What will this contribution require:**
 
 Getting involved in this repository is primarily aimed at those just starting out on their GitHub journey. It will present a great opportunity to learn the basics of using GitHub, and understanding core concepts. It will also allow you to open up certain GitHub achievement badges on your profile.
 
-Example steps for contribution:
+**Example steps for contribution:**
 
 * Visit the TODO.md page
 * Choose an article to copy across
@@ -33,6 +33,7 @@ If you wish to get involved in this project and copy over one of the articles fr
 We have implemented a **blank_article_layout_template.md** file stored in the main repository directory. You can view the file, add the required data, then update the main README.md and TODO.md tables to reflect changes made. Then submit a pull request.
 
 **Please follow the below steps to contribute:**
+<br /><br />
 
 #### FOLK THIS REPOSITORY & CREATE NEW BRANCH
 
@@ -61,6 +62,7 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
 **STEP 5:**
 
 - Switch to the new branch name `NewArticleBackupPage` 
+<br />
 
 #### CHOOSING AN ARTICLE
 
@@ -77,6 +79,7 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
 - Add a comment to the issue 
     - Let people know you are going to copy an article 
     - Provide the article title in your comment 
+<br />
 
 #### USING THE BLANK ARTICLE TEMPLATE FILE
 
@@ -107,6 +110,7 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
             - (example: `new-article-name.md`) 
         - Use commit description: `Copied a new article over from the main website` 
 - Commit changes to `NewArticleBackupPage`
+<br />
 
 #### UPDATE README.md FILE
 
@@ -132,6 +136,7 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
         - Use commit title: `Updated README.md`
         - Use commit description: `Updated the README.md file to add newly copied article` 
 - Commit changes to `NewArticleBackupPage`
+<br />
 
 #### UPDATE TODO.md FILE
 
@@ -155,6 +160,7 @@ We have implemented a **blank_article_layout_template.md** file stored in the ma
         - Use commit title: `Updated TODO.md`
         - Use commit description: `Updated the TODO.md file to change status of newly copied article` 
 - Commit changes to `NewArticleBackupPage`
+<br />
 
 #### FINAL CONTRIBUTION STEPS
 
