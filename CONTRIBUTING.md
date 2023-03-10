@@ -53,9 +53,9 @@ If you wish to get involved in this project and copy over one of the articles fr
     <li><a href="#update-readmemd-file">Update README.md File</a></li>
     <li><a href="#update-todomd-file">Update TODO.md File</a></li>
     <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
-    <li><a href="#next-steps">Next Steps After Pull Request</a></li>
-    <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
-    <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
+    <li><a href="#next-steps">Next Steps after Pull Request</a></li>
+    <li><a href="#support">Need Support?</a></li>
+    <li><a href="#code-of-conduct">Code of Conduct</a></li>
   </ol>
 <br /><br />
 
@@ -249,7 +249,7 @@ We always leave reviews and comments for all our pull requests. Thank you for vo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
-**Support**
+#### Support
 
 If you need support whilst you are creating your new copied article data, or following the detailed steps provided above, please `leave a comment on your issue`. We will try advise as much as we can to allow you to successfully complete your pull request.
 <br />
