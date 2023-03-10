@@ -99,6 +99,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 - Switch to the new branch name `NewArticleBackupPage` 
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 #### CHOOSING AN ARTICLE
 
@@ -115,6 +117,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 - Add a comment to the issue 
     - Let people know you are going to copy an article 
     - Provide the article title in your comment 
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 #### USING THE BLANK ARTICLE TEMPLATE FILE
@@ -147,6 +151,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Use commit description: `Copied a new article over from the main website` 
 - Commit changes to `NewArticleBackupPage`
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 #### UPDATE README.md FILE
 
@@ -173,6 +179,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Use commit description: `Updated the README.md file to add newly copied article` 
 - Commit changes to `NewArticleBackupPage`
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 #### UPDATE TODO.md FILE
 
@@ -196,6 +204,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Use commit title: `Updated TODO.md`
         - Use commit description: `Updated the TODO.md file to change status of newly copied article` 
 - Commit changes to `NewArticleBackupPage`
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 #### FINAL CONTRIBUTION STEPS
@@ -223,6 +233,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
         - Add any additional documentation ideas (if any)
         - Add any other information you feel is needed (if any)
     - Submit your `pull request`
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 **NEXT STEPS**
