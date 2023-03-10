@@ -237,15 +237,21 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
-**NEXT STEPS**
+#### NEXT STEPS
 
 Now you can sit back and wait for us to `review` your pull request submission. If we find issues with your submission, we will `request changes` on your pull. If we are satisfied with your request, we will `merge` your new branch `your-github-profile-name/cybersecurity-blog-posts/NewArticleBackupPage` with our `ProfCyberNaught/cybersecurity-blog-posts/main` branch.
 
 We always leave reviews and comments for all our pull requests. Thank you for volunteering your time to copy over a main article and submitting the required data as detailed above.
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 **Support**
 
 If you need support whilst you are creating your new copied article data, or following the detailed steps provided above, please `leave a comment on your issue`. We will try advise as much as we can to allow you to successfully complete your pull request.
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
 
 
 Code of Conduct
