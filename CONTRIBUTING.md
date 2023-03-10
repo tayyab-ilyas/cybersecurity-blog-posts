@@ -130,7 +130,7 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 **STEP 1:**
 
-- Copy the `blank_article_layout_template.md` file into the `pcn_cybersecurity_articles` directory 
+- Copy the [blank_article_layout_template.md](./blank_article_layout_template.md "Blank Article Template File") file into the `pcn_cybersecurity_articles` directory 
 - Rename this file with the name of your chosen article with a `.md` at the end
     - File name must only consist of:
         - lowercase letters, numbers, and hypens
@@ -163,7 +163,7 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 **STEP 1:**
 
-- Open the `README.md` file from the main directory
+- Open the [README.md](./README.md "Cybersecurity Blog Articles - Readme File") file from the main directory
     - Add additional table row in section `A List of Cybersecurity Blog Posts in this Repository`
         - Copy template table row from commented section
             - Must include four columns
@@ -191,15 +191,15 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 **STEP 1:**
 
-- Open the `TODO.md` file from the main directory
+- Open the [TODO.md](./TODO.md "Remaining Articles to Copy") file from the main directory
     - Locate your chosen article title
         - Change status column of the article title:
-            - If states `Completed`:
+            - If states `:heavy_check_mark:`:
                 - You have copied an article that has already been done
                     - Your contribution will be rejected
                     - Please copy a different article
-            - If states `Not Copied`:
-                - Change text `Not Copied` to `Completed`
+            - If states `:x:`:
+                - Change text `:x:` to `:heavy_check_mark:`
     - Save changes
 
 **STEP 2:**
