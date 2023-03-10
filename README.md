@@ -131,6 +131,11 @@ The `attribution` column represents those `contributors` who `copied the data ov
 | Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux | [Link](https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy "Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux")| [Link](pcn_cybersecurity_articles/cybersecurity-which-operating-system-for-security-and-privacy.md "Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux")| [saiaungkyawmaw](https://github.com/saiaungkyawmaw "GitHub saiaungkyawmaw") & [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |<!-- Divider -->
 | Cybersecurity: What Colour Hacker Would You Be? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be "Cybersecurity: What Colour Hacker Would You Be?")| [Link](pcn_cybersecurity_articles/cybersecurity-what-colour-hacker-would-you-be.md "Cybersecurity: What Colour Hacker Would You Be?")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
 
+<!-- TEMPLATE TABLE ROW -->
+<!--
+| [ARTICLE-TITLE] | [Link]([ARTICLE-TITLE-URL] "[ARTICLE-TITLE]")| [Link]([GITHUB-ARTICLE-LINK] "[ARTICLE-TITLE]")| [YOUR-GITHUB-USERNAME]([YOUR-GITHUB-URL] "GitHub [YOUR-GITHUB-USERNAME]") |<!-- Divider -->
+
+
 [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
