@@ -143,7 +143,7 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 - Edit the template file 
     - Read the instructions within the blank template file `has been commented`
     - Replace `variable codes` with the required article data
-        - If you need more detailed instructions, view the `COPY_ARTICLE_DETAILED_INSTRUCTIONS.md` file
+        - If you need more detailed instructions, view the `COPY_ARTICLE_DETAILED_INSTRUCTIONS.md` file (coming soon)
     - Save changes
 
 **STEP 3:**
