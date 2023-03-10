@@ -43,6 +43,8 @@ If you wish to get involved in this project and copy over one of the articles fr
 
 We have implemented a **blank_article_layout_template.md** file stored in the main repository directory. You can view the file, add the required data, then update the main README.md and TODO.md tables to reflect changes made. Then submit a pull request.
 
+If you are not familiar with `Markdown Syntax`, please follow this link for further details: [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide")
+
 **Please follow the below steps to contribute:**
 <br /><br />
 
