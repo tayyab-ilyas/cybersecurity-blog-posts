@@ -463,7 +463,11 @@ Below is an example of how a PHP code block looks in Markdown:
 ```PHP
 <?php
 
-// DO NOT use PHP short tags: <?
+/**************************/
+/*                        */
+/*   SCARY PHP FUNCTION   */
+/*                        */
+/**************************/
 
 // Start new function
 function are_you_scared($scary_event) {
