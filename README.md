@@ -117,7 +117,7 @@ If you wish to contribute to this project: [Contribution Documents](./CONTRIBUTI
 
 Articles ([blog posts](./pcn_cybersecurity_articles/ "Cybersecurity Blog Articles - ProfCyberNaught - Backup Copies")) are written on the [main Cybersecurity website](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught") and then with the help of volunteers ([contributors](./CONTRIBUTING.md "Contribute to this Cybersecurity Blog Articles Repository - Create Backup Copies")), they are then copied over from the main Cybersecurity website to this backup repository.<br /><br />
 
-For a full list of all the Cybersecurity Blog Articles written on the main Cybersecurity website, and which ones have currently been copied over to this back repository, you can view the [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file.<br /><br />
+For a full list of all the Cybersecurity Blog Articles written on the main Cybersecurity website, and which ones have currently been copied over to this backup repository, you can view the [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file.<br /><br />
 
 <div align="center">
 
@@ -126,7 +126,7 @@ For a full list of all the Cybersecurity Blog Articles written on the main Cyber
 </div>
 <br />
 
-This [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file contains a full list of all articles written by ProfCyberNaught **(no contributors listed have written these articles)**, but also displays the current status of each article.
+This [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file contains a full list of all articles written by ProfCyberNaught **(no additional contributors listed have written these articles)**, but also displays the current status of each article.
 
 A tick :heavy_check_mark: represents the article has already been copied over to this back repository.
 
