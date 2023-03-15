@@ -193,6 +193,16 @@ Last Sentence:
 **"Click Fix" - ProfCyberNaught**
 ```
 
+<ins>**IMPORTANT NOTICE ON ASTERISK USAGE**</ins>
+
+If you need to use the `asterisk symbol(*)` but need it to be displayed in bold (__*__), you must use two `underscore symbols(__)` at the beginning and end of your text. If you try using the asterisks instead, you will break the text display formats.
+
+An example of correct use has been presented below:
+
+```
+This sentence contains a **bold** asterisk at the end __*__
+```
+
 #### ITALIC TEXT
 When trying to use italic text, we need to add characters before and after the specific text to be made italic. In order to do this, we need to use the `underscore symbol (_)` as follows:
 
@@ -201,19 +211,354 @@ Paragraph Three:
 However, this is _often not_ the case. Many issues ... ... ...
 ```
 
+<ins>**IMPORTANT NOTICE ON ITALIC USAGE**</ins>
+
+If you need to use the `underscore symbol(_)` but need it to be displayed in italic ( *_* ), you must use a single `asterisk symbol(*)` at the beginning and end of your text. If you try using the underscores instead, you will break the text display formats. You might not be able to visually tell it is italic due to the nature of the character or type font.
+
+An example of correct use has been presented below:
+
+```
+This sentence contains an _italic_ underscore at the end *_*
+```
+
+#### MIXING BOLD AND ITALIC TEXT
+To emphasise text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicise the middle of a word for emphasis, add three asterisks without spaces around the letters.
+
+Paragraph Three:
+```
+This text is ***really important***.
+This text is ___really important___.
+This text is __*really important*__.
+This text is **_really important_**.
+This is really***very***important text.
+```
+
 #### UNDERLINED TEXT
-When trying to use underlined text, we need to add a tag before and after the specific text to be made underlined. In order to do this, we need to use the open `<ins>` tag before, and then the close `</ins>` tag after <u>as</u> follows:
+When trying to use underlined text, we need to add a tag before and after the specific text to be made underlined. In order to do this, we need to use the open `<ins>` tag before, and then the close `</ins>` tag after as follows:
 
 ```
 The following is underlined: <ins>I am underlined</ins> ... ... ...
 ```
 
-Notice: You will see online many people using `<u>` and `</u>`
+<ins>**IMPORTANT NOTICE:**</ins> You will see many online people discussing and using `<u>` and `</u>` to underline text; this is common HTML syntax. However, over here on GitHub, it does not work and you must use the `<ins>` and `</ins>` versions instead.
+
+#### HEADINGS TEXT
+When trying to represent heading text, we need to add a set amount of `pound symbols(#)` before our title text seperated by a single space. It is also considered good practice to add a line space above and below your heading text. This ensures there are no display issues.
+
+We have provided example heading text syntax below:
+
+```
+# This is a article title heading (H1)
+## This is a article subtitle heading (H2)
+### This is a article body content heading (H3)
+```
+
+<ins>**NOTICE:**</ins> Markdown supports up to level six in relation to headings `######`. However, our articles only use up to level three.
+
+#### NEW PARAGRAPHS
+When trying to represent paragraph layouts, we need to add a line space between them.
+
+We have provided example paragraph text below:
+
+```
+This is a paragraph containing only a few sentences. We are attempting to demonstrate how a paragraph can be written in the Markdown Syntax. When copying the article body content from the main Cybersecurity website, those paragraphs should still remain when you paste the text.
+
+However, with this new paragraph we have left a line gap (new line) between the first paragraph and this second paragraph. This means, we do not have to use standard HTML tags such as <p></p> in order to achieve the same thing. This allows for easier copying of the main Cybersecurity articles.
+```
+
+#### LINE BREAKS TEXT
+When trying to represent line breaks within your text, we need to add a tag after the line we want to break at. This is done by using `<br />` or `<br>`.
+
+We have provided example line break text syntax below:
+
+```
+This is the first line.<br />This will appear underneath.<br />This will appear at the bottom of the two lines previously.
+```
+
+<ins>**NOTICE:**</ins> It does not matter if you place all your sentences requiring line breaks on a single line using the `<br />` syntax. They will all still appear on their own lines. However, to make content easier to read, we suggest the layout below:
+
+```
+This is the first line.<br />
+This will appear underneath.<br />
+This will appear at the bottom of the two lines previously.
+```
+
+#### LINE BREAKS TEXT
+When trying to represent line breaks within your text, we need to add a tag after the line we want to break at. This is done by using `<br />` or `<br>`.
+
+We have provided example line break text syntax below:
+
+```
+This is the first line.<br />This will appear underneath.<br />This will appear at the bottom of the two lines previously.
+```
+
+#### BLOCKQUOTE TEXT
+To create a blockquote, add a `greater-than symbol(>)` in front of a paragraph. An example blockquote is displayed below:
+
+> This is a block quote for example purposes.
+
+Here is the correct syntax to display a blockquote:
+
+```
+> ProfCyberNaught walked through many of the beautiful virtual rooms.
+```
+
+**BLOCKQUOTES WITH MULTIPLE PARAGRAPHS:**
+
+Blockquotes can contain multiple paragraphs. Add a `greater-than symbol(>)` on the blank lines between the paragraphs.
+
+```
+> ProfCyberNaught walked through many of the beautiful virtual rooms.
+>
+> Suddenly, the rooms became very dark because there was a power outage.
+```
+
+**NESTED BLOCKQUOTES:**
+
+Blockquotes can be nested. Add two `greater-than symbols(>>)` in front of the paragraph you want to nest.
+
+```
+> ProfCyberNaught walked through many of the beautiful virtual rooms.
+>
+>> Suddenly, the rooms became very dark because there was a power outage.
+```
+
+**BLOCKQUOTES WITH OTHER ELEMENTS:**
+
+Blockquotes can contain other Markdown formatted elements. Not all elements can be used so you will need to experiment to see which ones work.
+
+```
+> #### The detailed instructions look great!
+>
+> - Helpfulness was off the chart.
+> - Usage was higher than ever.
+>
+>  *Everything* is going according to **I have no plan**.
+```
+
+#### ORDERED LIST TEXT
+To create an ordered list, add line items with numbers followed by periods. The numbers do not have to be in numerical order, but the list should start with the number one.
+
+```
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item (press your TAB key first)
+    2. Indented item (press your TAB key first)
+4. Fourth item 
+```
+
+#### UNORDERED LIST TEXT
+To create an unordered list, add `hyphen symbols(-)`, `asterisks(*)`, or `plus signs(+)` in front of line items. Indent one or more items to create a nested list.
+
+```
+- First item
+- Second item
+- Third item
+- Fourth item
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
++ First item
++ Second item
++ Third item
++ Fourth item
+
+- First item
+- Second item
+- Third item
+    - Indented item (press your TAB key first)
+    - Indented item (press your TAB key first)
+- Fourth item 
+```
+
+**Starting Unordered List Items With Numbers**
+If you need to start an unordered list item with a number followed by a period, you can use a `backslash symbol(\)` to escape the `period symbol(.)`.
+
+```
+- 2023\. A great year!
+- I think 2024 will be better.
+```
+
+<ins>**_IMPORTANT NOTICE:_**</ins> _If you do not add the `backslash symbol(\)` to cancel out the `period symbol(.)`, you will indent your list line._
+
+<ins>**_GOOD TIP:_**</ins> _If things do not appear the way you expect, double check that you have indented the elements in the list four spaces or one TAB key press._
+
+Example of **GOOD TIP** below:
+
+```
+* This is the first list item.
+* Here's the second list item.
+
+    I need to add another paragraph below the second list item.
+
+* And here's the third list item.
+```
+
+#### PROGRAMMING CODE TEXT
+Below is an example of how a PHP code block looks in Markdown:
+
+```PHP
+<?php
+
+// Start new function
+function are_you_scared($scary_event) {
+
+    // Escape provided input for security
+    $did_something_happen = htmlentities($scary_event, ENT_QUOTES);
+
+    // Start conditional statement
+    if ($did_something_happen) { // Something really happened!!!
+
+        $did_something_happen = "Scream out loud!"; // Sets response value
+    }
+
+    else { // Nothing really happened
+
+        $did_something_happen = "No! I am bored!"; // Sets response value
+
+    }
+
+    return $did_something_happen; // Returns response to use
+}
+
+echo "ProfCyberNaught Takes Off Mask: " . are_you_scared("ProfCyberNaught Takes Off Mask");
+
+?>
+```
+
+When trying to display programming code, you can either use three `backtick symbols(```)` at the beginning and end of your code snippet, or you can provide a language definition after the first three backticks ` ```php` to format the code correctly accordingly to language used.
+
+```
+```PHP
+<?php
+
+// This is a PHP comment.
+
+$set_me_now = "new variable";
+
+?>```
+```
+
+_If you are unsure about the language you are trying to display, please get in touch and we will help you display it correctly._
+
+_Alternatively, checkout the following markdown website page: [Markdown Code Blocks](https://markdown.land/markdown-code-block "Markdown Code Blocks")_
+
+#### DISPLAYING IMAGES
+If the article content contains images, we will add the image files within the review process to make sure they are the correct size and format.
+
+However, if you want to know how to add an image in Markdown, please refer to the following snippet:
+
+```
+![Title of image here](./path/to/images/image_file_name.png "Image ALT text here")
+```
+
+**FAQ: What is ALT?**<br />
+ALT stands for `Alternative Tag` and is widely used to describe an image. This helps with SEO best practices but also screenreaders, plus provides placeholder text if an image does not load. ALT tags should always be used.
+
+#### ESCAPING BACKTICKS TEXT
+If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double `backtick symbols(``)`.
+
+```
+``Use `code` in your Markdown file.``
+```
+
+#### HORIZONTAL RULES (LINES & DIVIDERS)
+To create a horizontal rule, line or divider, use three or more `asterisk symbols(***)`, `hyphen symbols(---)`, or `underscore symbols(___)` on a line by themselves. Make sure you have a line break above and below the horizontal rule.
+
+```
+Try to put a blank line before...
+
+---
+
+...and after a horizontal rule. 
+```
+
+#### ADDING LINKS
+When adding links, we insist on using a certain format that incorporates best SEO practices (Search Engine Optimsation - SEO). The link must contain the text to display, the url (must be encrypted using HTTPS only), and a link title.
+
+Below is an example:
+
+```
+[Text To Display Here](https://your-url-link-here.com "Link Title Here")
+```
+
+- **Text To Display**: This is what is visable on the screen.<br />
+- **Your URL Link Here**: This is the url link to the website page (using https)<br />
+- **Link Title Here**: This displays when someone hovers over and search engines use this<br />
+
+<ins>**NOTICE ABOUT URLS:**</ins> All URLs must be in the format mentioned above. We do not accept the minimum standard of using `less-than symbols(<)` and `more-than symbols(>)` like this `<https://your-link-goes-here.com>`.
+
+#### ESCAPING CHARACTERS
+Sometimes, we need to use certain characters in our text that are certainly going to cause some Markdown layout rendering. We must use the `backslash symbol(\)` to escape the character and stop Markdown from rendering it a display instruction.
+
+Here is an example of using an `asterisk symbol(*)` within the text:
+
+```
+\* Without the backslash, this would be a bullet in an unordered list.
+```
+
+The following symbols can be escaped: \` \\ \* \_ \{} \[] \<> \() \# \+ \- \. \! \|
+
+#### USING TABLES
+Sometimes, we need to use tables to layout the information. There is a specific way tables work within Markdown and we provide examples below:
+
+Table Column Headers:
+```
+| COLUMN HEADER 1 | COLUMN HEADER 2 | COLUMN HEADER 3 |
+```
+
+We then need to `divider` them:
+```
+| COLUMN HEADER 1 | COLUMN HEADER 2 | COLUMN HEADER 3 |
+| --------------- | --------------- | --------------- |
+```
+
+We can then add our rows of data:
+
+```
+| COLUMN HEADER 1 | COLUMN HEADER 2 | COLUMN HEADER 3 |
+| --------------- | --------------- | --------------- |
+|    ROW1 COL1    |    ROW1 COL2    |    ROW1 COL3    |
+|    ROW2 COL1    |    ROW2 COL2    |    ROW2 COL3    |
+|    ROW3 COL1    |    ROW3 COL2    |    ROW3 COL3    |
+```
+
+An example of how the table looks has been presented below:
+
+| COLUMN HEADER 1 | COLUMN HEADER 2 | COLUMN HEADER 3 |
+| --------------- | --------------- | --------------- |
+|    ROW1 COL1    |    ROW1 COL2    |    ROW1 COL3    |
+|    ROW2 COL1    |    ROW2 COL2    |    ROW2 COL3    |
+|    ROW3 COL1    |    ROW3 COL2    |    ROW3 COL3    |
+
+You can add into your table different Markdown data types _(the `blank article template file` uses this method in the footer table)_.
+
+Just experiment and see if you gain the look you need to match the Cybersecurity Blog Article. If you struggle, give us a comment on the repository issue.
+
+<br />
+
 
 **FAQ: What about other content types?**<br />
-If there are other types of content within your chosen article, it would be best to refer to the [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide") linked above. This covers many different methods of adding content types using Markdown.
-
-However, if you would like some more examples displayed in the layout method used here, you can visit our [Example Markdown Methods](# "") page.
+If there are other types of content within your chosen article, it would be best to refer to the [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide") linked above. This covers many different methods of adding content types using Markdown. However, we have tried to include most options here.
 <br /><br />
 
 #### THE ARTICLE KEYWORDS
