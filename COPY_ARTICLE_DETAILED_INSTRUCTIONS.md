@@ -461,7 +461,6 @@ Example of **GOOD TIP** below:
 Below is an example of how a PHP code block looks in Markdown:
 
 ```PHP
-<?php
 
 // Start new function
 function are_you_scared($scary_event) {
@@ -490,7 +489,6 @@ $event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
 // Display on the screen the event response
 echo 'ProfCyberNaught Takes Off Mask: ' . $event_response;
 
-?>
 ```
 
 When trying to display programming code, you can either use three `backtick symbols(```)` at the beginning and end of your code snippet, or you can provide a language definition after the first three backticks ` ```php` to format the code correctly accordingly to language used.
