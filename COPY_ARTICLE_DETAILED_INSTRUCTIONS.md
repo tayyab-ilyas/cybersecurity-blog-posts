@@ -88,8 +88,9 @@ We make the following assumptions about you:
 - You have an active internet connection to view the main Cybersecurity website
 
 **IDE Suggestion:**<br />
-We suggest using an official code editor such as VSCodium, VSCode, Notepad++, Sublime Text and more. However, a standard text editor such as `Notepad(Windows)`, `GEdit(Linux)` or `TextEdit(MacOS)` will work just fine. Be careful about adding text formatting and saving as a different file type _(must be `.md`)_.<br /><br />
-We use Markdown for these pages and a link has been provided below with more additional instructions and examples.
+We suggest using an official code editor such as VSCodium, VSCode, Notepad++, Sublime Text and more. However, a standard text editor such as `Notepad(Windows)`, `GEdit(Linux)` or `TextEdit(MacOS)` will work just fine. Be careful about adding text formating and saving as a different file type _(must be `.md`)_.<br />
+
+We use Markdown for these pages and a link has been provided below with more additional instructions and examples. However, <ins>**we have documented in extensive detail many of the options available in Markdown**</ins>.
 
 **_PRIVACY ADVISORY NOTICE:_**
 <br />_**VSCode** has <ins>Microsoft telemetry activated by default</ins>. You can turn this off in the File > Options window. **VSCodium** <ins>does not</ins> have the Microsoft telemetry activated by default. Both are based on open-source software and free to use._<br />
@@ -145,14 +146,14 @@ The article subtitle can be found directly underneath the main article title. Th
 
 ![article_header_section.png](./pcn_images/article_detailed_instructions_documentation/website_article/article_header_section.png "Article Title - article_header_section.png")
 
-You can copy the title text and paste this into the `blank template file` subtitle section displayed in the image below:
+You can copy the subtitle text and paste this into the `blank template file` subtitle section displayed in the image below:
 
 ![article_template_subtitle.png](./pcn_images/article_detailed_instructions_documentation/article_template_file/article_template_subtitle.png "Article Subtitle - article_template_subtitle.png")
 
 Replace `[ARTICLE-SUBTITLE]` with the copied title text:
 
 ```
-## Not every tech thing is easy to fix
+## Not every tech thing is easy to fix...
 ```
 <br /><br />
 
