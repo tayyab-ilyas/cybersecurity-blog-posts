@@ -33,18 +33,28 @@ Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cyberse
   <ol>
   <!-- HELP NOTICE: If you need more links, copy and paste from this list, create your section below, then add the section link tag
        Do not forget to update all the tag links if you change names of the sections below -->
-    <li><a href="#">Workflow advice</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
-    <li><a href="#">#</a></li>
+    <li><a href="#assumptions-made">Assumptions Made</a></li>
+    <li><a href="#the-article-title">Article Title</a></li>
+    <li><a href="#the-article-subtitle">Article Subtitle</a></li>
+    <li><a href="#the-article-content">Article Content</a></li>
+        <ol>
+            <li><a href="#bold-text">Bold Text</a></li>
+            <li><a href="#italic-text">Italic Text</a></li>
+        </ol>
+    <li><a href="#the-article-keywords">Article Keywords</a></li>
+    <li><a href="#the-article-references-further-reading">Article References (Further Reading)</a></li>
+    <li><a href="#the-blank-template-footer-table">Blank Template Footer Table</a></li>
+        <ol>
+            <li><a href="#setting-the-published-date-variable">Setting the [PUBLISHED-DATE]</a></li>
+            <li><a href="#setting-the-article-title-here-variables">Setting the [ARTICLE-TITLE-HERE]</a></li>
+            <li><a href="#setting-the-copied-over-date-variable">Setting the [COPIED-OVER-DATE]</a></li>
+            <li><a href="#setting-the-article-title-url-variable">Setting the [ARTICLE-TITLE-URL]</a></li>
+            <li><a href="#setting-the-your-github-username-variables">Setting the [YOUR-GITHUB-USERNAME]</a></li>
+            <li><a href="#setting-the-your-github-url-variables">Setting the [YOUR-GITHUB-URL]</a></li>
+            <li><a href="#italic-text">Italic Text</a></li>
+        </ol>
+    <li><a href="#do-not-edit-above-or-below-sections">Do Not Edit Above Below Sections</a></li>
+    <li><a href="#next-steps">Next Steps</a></li>
     <li><a href="#support">Need Support?</a></li>
     <li><a href="#code-of-conduct">Code of Conduct</a></li>
   </ol>
