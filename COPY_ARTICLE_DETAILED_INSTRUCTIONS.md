@@ -485,7 +485,7 @@ function are_you_scared($scary_event) {
 }
 
 // Set variable using a call to the new function
-$event_response = are_you_scared("ProfCyberNaught Takes Off Mask");
+$event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
 
 // Display on the screen the event response
 echo "ProfCyberNaught Takes Off Mask: " . $event_response;
