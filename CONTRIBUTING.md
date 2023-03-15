@@ -97,7 +97,7 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 **STEP 4:**
 
 - Create new branch called: `NewArticleBackupPage`
-    - **Notice:** We will not accept commits from `master` or other named branches
+    - **Notice:** We will not accept commits from `master`, `main` or other named branches
 
 **STEP 5:**
 
