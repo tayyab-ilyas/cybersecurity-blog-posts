@@ -58,7 +58,7 @@ If you wish to get involved in this project and copy over one of the articles fr
   </ol>
 <br /><br />
 
-We have implemented a **blank_article_layout_template.md** file stored in the main repository directory. You can view the file, add the required data, then update the main README.md and TODO.md tables to reflect changes made. Then submit a pull request.
+We have implemented a **blank_article_layout_template.md** file stored in the main repository directory. You can view the file, add the required data, then update the TODO.md table to reflect changes made. Then submit a pull request.
 <br /><br />
 
 **NOT SURE HOW TO USE GITHUB DESKTOP OR CLIENT COMMANDS?**
