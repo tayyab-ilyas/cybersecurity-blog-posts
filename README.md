@@ -115,29 +115,24 @@ If you wish to contribute to this project: [Contribution Documents](./CONTRIBUTI
 <!-- LIST OF BLOG POSTS -->
 ## A List of Cybersecurity Blog Posts in this repository:
 
-These articles may not have been listed in order of being published, and some may still need to be copied over from the main website.<br /><br />
-The `attribution` column represents those `contributors` who `copied the data over` from the main website to this repository.
+Articles ([blog posts](./pcn_cybersecurity_articles/ "Cybersecurity Blog Articles - ProfCyberNaught - Backup Copies")) are written on the [main Cybersecurity website](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught") and then with the help of volunteers ([contributors](./CONTRIBUTING.md "Contribute to this Cybersecurity Blog Articles Repository - Create Backup Copies")), they are then copied over from the main Cybersecurity website to this backup repository.<br /><br />
 
-### All articles were written by ProfCyberNaught over on the main website.
+For a full list of all the Cybersecurity Blog Articles written on the main Cybersecurity website, and which ones have currently been copied over to this back repository, you can view the [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file.<br /><br />
 
-| Title | Blog Link | GitHub Link | Copied By | 
-| --- | --- | --- | --- |
-| Why Become A Cybersecurity Engineer? | [Link](https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer "Why Become A Cybersecurity Engineer?")| [Link](pcn_cybersecurity_articles/why-become-a-cybersecurity-engineer.md "Why Become A Cybersecurity Engineer?") | [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
-| Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare | [Link](https://profcybernaught.hashnode.dev/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare "Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare")| [Link](pcn_cybersecurity_articles/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare.md "Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
-| Cybersecurity: Navigating the Digital Landscape | [Link](https://profcybernaught.hashnode.dev/cybersecurity-navigating-the-digital-landscape "Cybersecurity: Navigating the Digital Landscape")| [Link](pcn_cybersecurity_articles/cybersecurity-navigating-the-digital-landscape.md "Cybersecurity: Navigating the Digital Landscape")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
-| An Overview of Leet (1337) Speak: History, Usage, and Implications | [Link](https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications "An Overview of Leet (1337) Speak: History, Usage, and Implications")| [Link](pcn_cybersecurity_articles/an-overview-of-leet-speak-history-usage-and-implications.md "An Overview of Leet (1337) Speak: History, Usage, and Implications")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
-| Coding Focus: Programming or Scripting Languages - What is the Difference? | [Link](https://profcybernaught.hashnode.dev/coding-focus-programming-or-scripting-languages-what-is-the-difference "Coding Focus: Programming or Scripting Languages - What is the Difference?")| [Link](pcn_cybersecurity_articles/programming-or-scripting-languages-what-is-the-difference.md "Coding Focus: Programming or Scripting Languages - What is the Difference?")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
-| Cybersecurity: What is Malware? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-is-malware "Cybersecurity: What is Malware?")| [Link](pcn_cybersecurity_articles/cybersecurity-what-is-malware.md "Cybersecurity: What is Malware?")| [Mannuel25](https://github.com/Mannuel25 "GitHub Mannuel25") & [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |<!-- Divider -->
-| Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux | [Link](https://profcybernaught.hashnode.dev/cybersecurity-which-operating-system-for-security-and-privacy "Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux")| [Link](pcn_cybersecurity_articles/cybersecurity-which-operating-system-for-security-and-privacy.md "Cybersecurity: Which Operating System for Security and Privacy? Windows, Mac, or Linux")| [saiaungkyawmaw](https://github.com/saiaungkyawmaw "GitHub saiaungkyawmaw") & [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |<!-- Divider -->
-| Cybersecurity: What Colour Hacker Would You Be? | [Link](https://profcybernaught.hashnode.dev/cybersecurity-what-colour-hacker-would-you-be "Cybersecurity: What Colour Hacker Would You Be?")| [Link](pcn_cybersecurity_articles/cybersecurity-what-colour-hacker-would-you-be.md "Cybersecurity: What Colour Hacker Would You Be?")| [ProfCyberNaught](https://github.com/ProfCyberNaught "GitHub ProfCyberNaught") |<!-- Divider -->
-| Not Everything is a 'Click Fix'! | [Link](https://profcybernaught.hashnode.dev/not-everything-is-a-click-fix "Not Everything is a 'Click Fix'!") | [Link](pcn_cybersecurity_articles/not-everything-is-a-click-fix.md "Not Everything is a 'Click Fix'!")| [Mannuel25](https://github.com/Mannuel25 "GitHub Mannuel25") | <!-- Divider -->
+<div align="center">
 
-<!-- TEMPLATE TABLE ROW -->
-<!--
-| [ARTICLE-TITLE] | [Link]([ARTICLE-TITLE-URL] "[ARTICLE-TITLE]")| [Link]([GITHUB-ARTICLE-LINK] "[ARTICLE-TITLE]")| [YOUR-GITHUB-USERNAME]([YOUR-GITHUB-URL] "GitHub [YOUR-GITHUB-USERNAME]") |<!-- Divider -->
+[View Cybersecurity Articles List](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status")
 
+</div>
+<br />
 
-[Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")
+This [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file contains a full list of all articles written by ProfCyberNaught **(no contributors listed have written these articles)**, but also displays the current status of each article.
+
+A tick :heavy_check_mark: represents the article has already been copied over to this back repository.
+
+A cross :x: represents the article still needs copying over.<br /><br />
+
+View the main website: [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
