@@ -46,6 +46,11 @@ Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cyberse
             <li><a href="#new-paragraphs">Paragraphs</a></li>
             <li><a href="#line-breaks-text">Line Breaks</a></li>
             <li><a href="#blockquote-text">Blockquotes</a></li>
+            <ol>
+                <li><a href="#blockquotes-with-multiple-paragraphs">Blockquotes with Multiple Paragraphs</a></li>
+                <li><a href="#nested-blockquotes">Nested Blockquotes</a></li>
+                <li><a href="#blockquotes-with-other-elements">Blockquotes with Other Elements</a></li>
+            </ol>
             <li><a href="#ordered-list-text">Ordered Lists</a></li>
             <li><a href="unordered-list-text">Unordered Lists</a></li>
             <li><a href="#programming-code-text">Programming Code Snippets</a></li>
@@ -190,7 +195,7 @@ You must pay attention to the article content and whether or not this content ha
 <ins>In our example article used above</ins>, we can see from the main article content, we have <ins>bold text twice</ins> in the first paragraph, <ins>italics</ins> in the third paragraph, and the last sentence is all <ins>bold</ins>.
 
 #### BOLD TEXT
-When trying to use bold text, we need to add characters before and after the specific text to be made bold. In order to do this, we need to use the `asterisk symbol (*)` twice as follows:
+When trying to use bold text, we need to add characters before and after the specific text to be made bold. In order to do this, we need to use the `asterisk symbol(*)` twice as follows:
 
 Paragraph One:
 ```
@@ -213,7 +218,7 @@ This sentence contains a **bold** asterisk at the end __*__
 ```
 
 #### ITALIC TEXT
-When trying to use italic text, we need to add characters before and after the specific text to be made italic. In order to do this, we need to use the `underscore symbol (_)` as follows:
+When trying to use italic text, we need to add characters before and after the specific text to be made italic. In order to do this, we need to use the `underscore symbol(_)` as follows:
 
 Paragraph Three:
 ```
@@ -233,7 +238,6 @@ This sentence contains an _italic_ underscore at the end *_*
 #### MIXING BOLD AND ITALIC TEXT
 To emphasise text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicise the middle of a word for emphasis, add three asterisks without spaces around the letters.
 
-Paragraph Three:
 ```
 This text is ***really important***.
 This text is ___really important___.
@@ -292,15 +296,6 @@ This will appear underneath.<br />
 This will appear at the bottom of the two lines previously.
 ```
 
-#### LINE BREAKS TEXT
-When trying to represent line breaks within your text, we need to add a tag after the line we want to break at. This is done by using `<br />` or `<br>`.
-
-We have provided example line break text syntax below:
-
-```
-This is the first line.<br />This will appear underneath.<br />This will appear at the bottom of the two lines previously.
-```
-
 #### BLOCKQUOTE TEXT
 To create a blockquote, add a `greater-than symbol(>)` in front of a paragraph. An example blockquote is displayed below:
 
@@ -312,7 +307,7 @@ Here is the correct syntax to display a blockquote:
 > ProfCyberNaught walked through many of the beautiful virtual rooms.
 ```
 
-**BLOCKQUOTES WITH MULTIPLE PARAGRAPHS:**
+#### BLOCKQUOTES WITH MULTIPLE PARAGRAPHS:
 
 Blockquotes can contain multiple paragraphs. Add a `greater-than symbol(>)` on the blank lines between the paragraphs.
 
@@ -322,7 +317,7 @@ Blockquotes can contain multiple paragraphs. Add a `greater-than symbol(>)` on t
 > Suddenly, the rooms became very dark because there was a power outage.
 ```
 
-**NESTED BLOCKQUOTES:**
+#### NESTED BLOCKQUOTES:
 
 Blockquotes can be nested. Add two `greater-than symbols(>>)` in front of the paragraph you want to nest.
 
@@ -332,7 +327,7 @@ Blockquotes can be nested. Add two `greater-than symbols(>>)` in front of the pa
 >> Suddenly, the rooms became very dark because there was a power outage.
 ```
 
-**BLOCKQUOTES WITH OTHER ELEMENTS:**
+#### BLOCKQUOTES WITH OTHER ELEMENTS:
 
 Blockquotes can contain other Markdown formatted elements. Not all elements can be used so you will need to experiment to see which ones work.
 
