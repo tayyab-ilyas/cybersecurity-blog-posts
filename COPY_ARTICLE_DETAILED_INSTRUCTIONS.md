@@ -40,6 +40,12 @@ Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cyberse
         <ol>
             <li><a href="#bold-text">Bold Text</a></li>
             <li><a href="#italic-text">Italic Text</a></li>
+            <li><a href="">#</a></li>
+            <li><a href="">#</a></li>
+            <li><a href="">#</a></li>
+            <li><a href="">#</a></li>
+            <li><a href="">#</a></li>
+            <li><a href="">#</a></li>
         </ol>
     <li><a href="#the-article-keywords">Article Keywords</a></li>
     <li><a href="#the-article-references-further-reading">Article References (Further Reading)</a></li>
@@ -194,6 +200,15 @@ Paragraph Three:
 ```
 However, this is _often not_ the case. Many issues ... ... ...
 ```
+
+#### UNDERLINED TEXT
+When trying to use underlined text, we need to add a tag before and after the specific text to be made underlined. In order to do this, we need to use the open `<ins>` tag before, and then the close `</ins>` tag after <u>as</u> follows:
+
+```
+The following is underlined: <ins>I am underlined</ins> ... ... ...
+```
+
+Notice: You will see online many people using `<u>` and `</u>`
 
 **FAQ: What about other content types?**<br />
 If there are other types of content within your chosen article, it would be best to refer to the [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide") linked above. This covers many different methods of adding content types using Markdown.
