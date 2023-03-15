@@ -17,6 +17,13 @@ Here is a list of the articles over on the main Cybersecurity blog, and their co
 **_Important Notice:_**
 _You must make sure you not only check this list of article status indicators, but also the comments within the main [Copy Article Task Issue](# "Cybersecurity Blog Articles - ProfCyberNaught - Copy Article Task - GitHub Issue") to make sure nobody has stated they are currently coping your chosen article already._
 
+<br />
+
+**Representations of Backup Status:**<br />
+A tick :heavy_check_mark: represents the article has already been copied over to this back repository.
+
+A cross :x: represents the article still needs copying over.<br /><br />
+
 **The following table also represents the order in which the Cybersecurity articles were published on the main website.**
 
 | ID | Title | Blog Link | Status |
