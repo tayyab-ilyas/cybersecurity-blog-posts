@@ -20,9 +20,9 @@ _You must make sure you not only check this list of article status indicators, b
 <br />
 
 **Representations of Backup Status:**<br />
-A tick :heavy_check_mark: represents the article has already been copied over to this back repository.
+A tick :heavy_check_mark: represents the article has already been copied over to this backup repository.
 
-A cross :x: represents the article still needs copying over.<br /><br />
+A cross :x: represents the article still needs copying over as a backup.<br /><br />
 
 **The following table also represents the order in which the Cybersecurity articles were published on the main website.**
 
