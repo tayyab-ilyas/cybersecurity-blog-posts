@@ -50,7 +50,6 @@ If you wish to get involved in this project and copy over one of the articles fr
     <li><a href="#folk-this-repository--create-new-branch">Folk Repository - Create New Branch</a></li>
     <li><a href="#choosing-an-article">Choosing an Article</a></li>
     <li><a href="#using-the-blank-article-template-file">Using Blank Article Template File</a></li>
-    <li><a href="#update-readmemd-file">Update README.md File</a></li>
     <li><a href="#update-todomd-file">Update TODO.md File</a></li>
     <li><a href="#final-contribution-steps">Final Contribution Steps</a></li>
     <li><a href="#next-steps">Next Steps after Pull Request</a></li>
@@ -154,34 +153,6 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
             - Replace `<filename>` with your new file
             - (example: `new-article-name.md`) 
         - Use commit description: `Copied a new article over from the main website` 
-- Commit changes to `NewArticleBackupPage`
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br />
-
-#### UPDATE README.md FILE
-
-**STEP 1:**
-
-- Open the [README.md](./README.md "Cybersecurity Blog Articles - Readme File") file from the main directory
-    - Add additional table row in section `A List of Cybersecurity Blog Posts in this Repository`
-        - Copy template table row from commented section
-            - Must include four columns
-                - `article title`, `main article link`, `GitHub article link`, `your GitHub link`
-            - Must include the `<!-- Divider -->` comment at the end
-        - Paste new row at the bottom of the table
-            - New row must not have extra line breaks between other rows
-                - This will break the layout if you do
-        - Populate the `variable codes` with the required information
-            - Refer to existing rows for further clarity
-    - Save changes
-
-**STEP 2:**
-
-- Confirm your updates made 
-    - Commit your changes to `NewArticleBackupPage` 
-        - Use commit title: `Updated README.md`
-        - Use commit description: `Updated the README.md file to add newly copied article` 
 - Commit changes to `NewArticleBackupPage`
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
