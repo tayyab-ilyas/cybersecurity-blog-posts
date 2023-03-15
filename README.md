@@ -128,9 +128,9 @@ For a full list of all the Cybersecurity Blog Articles written on the main Cyber
 
 This [TODO.md](./TODO.md "Cybersecurity Blog Articles - ProfCyberNaught - Backup Status") file contains a full list of all articles written by ProfCyberNaught **(no additional contributors listed have written these articles)**, but also displays the current status of each article.
 
-A tick :heavy_check_mark: represents the article has already been copied over to this back repository.
+A tick :heavy_check_mark: represents the article has already been copied over to this backup repository.
 
-A cross :x: represents the article still needs copying over.<br /><br />
+A cross :x: represents the article still needs copying over as a backup.<br /><br />
 
 View the main website: [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")
 
