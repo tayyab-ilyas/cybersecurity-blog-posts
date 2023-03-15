@@ -472,12 +472,12 @@ function are_you_scared($scary_event) {
     // Start conditional statement
     if ($did_something_happen) { // Something really happened!!!
 
-        $did_something_happen = "Scream out loud!"; // Sets response value
+        $did_something_happen = 'Scream out loud!'; // Sets response value
     }
 
     else { // Nothing really happened
 
-        $did_something_happen = "No! I am bored!"; // Sets response value
+        $did_something_happen = 'No! I am bored!'; // Sets response value
 
     }
 
@@ -488,7 +488,7 @@ function are_you_scared($scary_event) {
 $event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
 
 // Display on the screen the event response
-echo "ProfCyberNaught Takes Off Mask: " . $event_response;
+echo 'ProfCyberNaught Takes Off Mask: ' . $event_response;
 
 ?>
 ```
