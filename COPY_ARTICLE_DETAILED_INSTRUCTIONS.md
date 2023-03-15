@@ -40,12 +40,21 @@ Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cyberse
         <ol>
             <li><a href="#bold-text">Bold Text</a></li>
             <li><a href="#italic-text">Italic Text</a></li>
-            <li><a href="">#</a></li>
-            <li><a href="">#</a></li>
-            <li><a href="">#</a></li>
-            <li><a href="">#</a></li>
-            <li><a href="">#</a></li>
-            <li><a href="">#</a></li>
+            <li><a href="#mixing-bold-and-italic-text">Mixing Bold & Italic</a></li>
+            <li><a href="#underlined-text">Underlined Text</a></li>
+            <li><a href="#headings-text">Headings</a></li>
+            <li><a href="#new-paragraphs">Paragraphs</a></li>
+            <li><a href="#line-breaks-text">Line Breaks</a></li>
+            <li><a href="#blockquote-text">Blockquotes</a></li>
+            <li><a href="#ordered-list-text">Ordered Lists</a></li>
+            <li><a href="unordered-list-text">Unordered Lists</a></li>
+            <li><a href="#programming-code-text">Programming Code Snippets</a></li>
+            <li><a href="#displaying-images">Displaying Images</a></li>
+            <li><a href="#escaping-backticks-text">Escaping Backticks</a></li>
+            <li><a href="#horizontal-rules-lines--dividers">Horizontal Rule (Divider Lines)</a></li>
+            <li><a href="#adding-links">Adding Links</a></li>
+            <li><a href="#escaping-characters">Escaping Special Characters</a></li>
+            <li><a href="#using-tables">Using Tables</a></li>
         </ol>
     <li><a href="#the-article-keywords">Article Keywords</a></li>
     <li><a href="#the-article-references-further-reading">Article References (Further Reading)</a></li>
@@ -56,8 +65,7 @@ Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cyberse
             <li><a href="#setting-the-copied-over-date-variable">Setting the [COPIED-OVER-DATE]</a></li>
             <li><a href="#setting-the-article-title-url-variable">Setting the [ARTICLE-TITLE-URL]</a></li>
             <li><a href="#setting-the-your-github-username-variables">Setting the [YOUR-GITHUB-USERNAME]</a></li>
-            <li><a href="#setting-the-your-github-url-variables">Setting the [YOUR-GITHUB-URL]</a></li>
-            <li><a href="#italic-text">Italic Text</a></li>
+            <li><a href="#setting-the-your-github-url-variable">Setting the [YOUR-GITHUB-URL]</a></li>
         </ol>
     <li><a href="#do-not-edit-above-or-below-sections">Do Not Edit Above Below Sections</a></li>
     <li><a href="#next-steps">Next Steps</a></li>
@@ -697,7 +705,7 @@ Here is an example of what the table should look like with all the steps complet
 | Jan 22, 2023 | [Not Everything is a 'Click Fix'!](https://profcybernaught.hashnode.dev/not-everything-is-a-click-fix "Not Everything is a 'Click Fix'!") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Mar 15, 2023 | [ProfCyberNaught]([YOUR-GITHUB-URL] "ProfCyberNaught on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 ```
 
-#### SETTING THE 'YOUR-GITHUB-URL' VARIABLES
+#### SETTING THE 'YOUR-GITHUB-URL' VARIABLE
 This should be a simple task considering we have just looked at the GitHub profile URL in the above step. This time, you will need to copy the whole URL and replace the `[YOUR-GITHUB-URL]` variable placeholder.
 
 ![github_profile_link.png](./pcn_images/article_detailed_instructions_documentation/github_link/github_profile_link.png "ProfCyberNaught GitHub Profile Link - github_profile_link.png")
