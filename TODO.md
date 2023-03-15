@@ -24,6 +24,9 @@ A tick :heavy_check_mark: represents the article has already been copied over to
 
 A cross :x: represents the article still needs copying over as a backup.<br /><br />
 
+**FAQ: Why are some done and not others? (seems random)**
+<br />Contributors who are new to GitHub are welcome to copy an article over from the main Cybersecurity website to this backup repository. This means, _you are free to choose which article you would like to copy over_. Being a beginner friendly repository task, the shorter, less complex articles get chosen first by contributors on most occassions due to the learning process. This can result in a random copied status. I try suggest contributors challenge and stretch themselves when choosing an article to backup.<br /><br />
+
 **The following table also represents the order in which the Cybersecurity articles were published on the main website.**
 
 | ID | Title | Blog Link | Status |
