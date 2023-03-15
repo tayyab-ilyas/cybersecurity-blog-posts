@@ -20,6 +20,8 @@ You will find screenshots of the different sections using an example main websit
 
 This more detailed set of instructions aims to cover the main step called `USING THE BLANK ARTICLE TEMPLATE FILE - STEP 2` over on the main [CONTRIBUTING.md file](./CONTRIBUTING.md "Contributing to the Cybersecurity Blog Article Backup Repository - ProfCyberNaught"). We suggest having the main steps open along side this detailed set of instructions. Both documents are aimed at helping you achieve your first contribution to a GitHub repository.
 
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
+
 Copying the Article Content
 ===========================
 
@@ -27,6 +29,8 @@ Make sure you have already chosen which Cybersecurity blog article you would lik
 
 Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cybersecurity Blog - Beginner Friendly Issue - GitHub - ProfCyberNaught")
 <br /><br />
+
+<a name="readme-contents"></a>
 
 <!-- TABLE OF CONTENTS -->
 #### Table of Contents
@@ -79,6 +83,8 @@ Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cyberse
   </ol>
 <br /><br />
 
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
+
 ### Assumptions Made
 We make the following assumptions about you:
 
@@ -106,6 +112,8 @@ _**GitHub Desktop** also has <ins>Microsoft telemetry activated by default</ins>
     Unfortunately, there are other telemetry behaviours within your chosen operating system and/or software packages installed. Make sure you do your own research if you value your privacy like we do.
 <br />
 
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
+
 **NOT SURE HOW TO USE GITHUB DESKTOP OR CLIENT COMMANDS?**
 
 If you are not familiar with `Markdown Syntax`, please follow this link for further details: [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide")
@@ -115,6 +123,8 @@ If you are not familiar with `Markdown Emojis`, please follow this link for furt
 If you are not familiar with `GitHub Desktop`, please follow this link for further details: [GitHub Desktop - Usage Instructions](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop "GitHub Desktop - Usage Instructions")
 
 If you prefer to learn the `GitHub Client commands`, please follow this link for further details: [GitHub Usage Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository "GitHub Usage Instructions")
+
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
 
 <br /><br />
 **Please use the below instructions to copy the article content:**
@@ -128,6 +138,8 @@ To view this article, you can click the following link: [View Article](https://p
 
 We have also used another article for the reference section because the one linked above, does not contain any references. You can view this Cybersecurity article called `An Overview of Leet (1337) Speak: History, Usage, and Implications` by clicking the following link: [View Article](https://profcybernaught.hashnode.dev/an-overview-of-leet-1337-speak-history-usage-and-implications "An Overview of Leet (1337) Speak: History, Usage, and Implications - Cybersecurity Blog - ProfCyberNaught")
 <br /><br />
+
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
 
 #### THE ARTICLE TITLE
 The article title can be found at the very top of the main article website page. The below image displays the top of an article page named: `Not Everything is a 'Click Fix'!`. [View Article](https://profcybernaught.hashnode.dev/not-everything-is-a-click-fix "Not Everything is a 'Click Fix'! - Cybersecurity Blog - ProfCyberNaught")
@@ -145,6 +157,8 @@ Replace `[ARTICLE-TITLE]` with the copied title text:
 ```
 
 <br /><br />
+
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
 
 #### THE ARTICLE SUBTITLE
 The article subtitle can be found directly underneath the main article title. The below image displays the top of an article page named: `Not Everything is a 'Click Fix'!`. [View Article](https://profcybernaught.hashnode.dev/not-everything-is-a-click-fix "Not Everything is a 'Click Fix'! - Cybersecurity Blog - ProfCyberNaught")
@@ -752,7 +766,7 @@ You now need to refer to the [CONTRIBUTING.md](./CONTRIBUTING.md "Contributing t
 
 If you need support whilst you are creating your new copied article data, or following the detailed steps provided above, please `leave a comment on your issue`. We will try advise as much as we can to allow you to successfully complete your pull request.
 <br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
 <br />
 
 
@@ -763,4 +777,4 @@ As a `contributor`, you can help us keep our community open and inclusive.
 Please read and follow our [Code of Conduct](./code_of_conduct.md "Code of Conduct - Cybersecurity Blog Posts") 
 
 <!-- HELP NOTICE: All pages must end with the 'back to top' and 'back to contents' links -->
-<p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../">back to contents</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../">back to main page</a>)</p>
