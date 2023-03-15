@@ -105,7 +105,7 @@ We use Markdown for these pages and a link has been provided below with more add
 _**GitHub Desktop** also has <ins>Microsoft telemetry activated by default</ins>. This can also be disabled in the settings: File > Options > Advanced > Usage. This is also open-source software, although GitHub itself is closed-source._
 <br /><br />
 
-    Unfortunately, there are other telemetry behaviours within your chosen operating system and/or software packages installed. Make sure you do your own research if you value your privacy like we do.
+> Unfortunately, there are other telemetry behaviours within your chosen operating system and/or software packages installed. Make sure you do your own research if you value your privacy like we do.
 <br />
 
 **NOT SURE HOW TO USE GITHUB DESKTOP OR CLIENT COMMANDS?**
