@@ -476,12 +476,12 @@ function are_you_scared($scary_event) {
     $did_something_happen = htmlentities($scary_event, ENT_QUOTES);
 
     // Start conditional statement
-    if ($did_something_happen) { // Something really happened!!!
+    if ($did_something_happen) { // Something really happened!!! ($scary_event has data)
 
         $did_something_happen = 'Screams out loud!'; // Sets response value
     }
 
-    else { // Nothing really happened
+    else { // Nothing really happened ($scary_event has no data)
 
         $did_something_happen = 'I am bored!'; // Sets response value
 
