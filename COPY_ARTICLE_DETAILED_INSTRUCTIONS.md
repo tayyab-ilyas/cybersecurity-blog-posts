@@ -836,7 +836,7 @@ _We will try to be as helpful as we can when assisting with your support request
 
 Now you have hopefully copied over all the required content and placed this within the `blank_article_layout_template.md` file we used above. **Remember**, make sure you have copied the template file, renamed it, and left the original template file in the repository for others to use.
 
-You now need to refer to the [CONTRIBUTING.md](./CONTRIBUTING.md "Contributing to Copy a Cybersecurity Blog Article - ProfCyberNaught - GitHub Backup Repository") file and continue with the following step: `UPDATE TODO.md FILE`.
+You now need to refer to the [CONTRIBUTING.md](./CONTRIBUTING.md "Contributing to Copy a Cybersecurity Blog Article - ProfCyberNaught - GitHub Backup Repository") file and continue with the following step: `USING THE BLANK ARTICLE TEMPLATE FILE - STEP 3`.
 <br />
 <p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
 <br />
