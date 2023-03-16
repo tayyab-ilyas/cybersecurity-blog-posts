@@ -497,7 +497,7 @@ $event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
 echo 'ProfCyberNaught Takes Off Mask: ' . $event_response;
 
 // EXAMPLE OUTPUT: ProfCyberNaught Takes Off Mask: Screams out loud!
-// EXAMPLE OUTPUT STRUCTURE: [message event passed into new 'are_you_scared()' function]: [Event Response]
+// OUTPUT STRUCTURE: [message event passed into new 'are_you_scared()' function]: [Event Response]
 
 ?>
 ```
