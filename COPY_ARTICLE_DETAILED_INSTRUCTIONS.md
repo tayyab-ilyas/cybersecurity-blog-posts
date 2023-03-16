@@ -478,7 +478,7 @@ function are_you_scared($scary_event) {
     // Start conditional statement
     if ($did_something_happen) { // Something really happened!!!
 
-        $did_something_happen = 'Scream out loud!'; // Sets response value
+        $did_something_happen = 'Screams out loud!'; // Sets response value
     }
 
     else { // Nothing really happened
