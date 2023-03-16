@@ -92,6 +92,7 @@ Standard template contains data:
 | [ARTICLE-TITLE] | [VIEW]([ARTICLE-LINK] "[ARTICLE TITLE] - ProfCyberNaught - Cybersecurity Blog") | Not Copied |<!-- Divider -->
 
 <br />
+
 **_Notice:_** _This page must be updated each time an article is published on the main Cybersecurity Blog: [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/ "Cybersecurity Blog - ProfCyberNaught")_
 <br /><br />
 
