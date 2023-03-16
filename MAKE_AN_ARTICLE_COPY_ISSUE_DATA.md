@@ -120,7 +120,9 @@ Here is a list of files and their links:
 - [template_article_layout_example.md](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/blob/main/template_article_layout_example.md "template_article_layout_example.md - ProfCyberNaught - Cybersecurity Blog Articles")
 - [pcn_cybersecurity_articles](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/tree/main/pcn_cybersecurity_articles "pcn_cybersecurity_articles - ProfCyberNaught - Cybersecurity Blog Articles")
 
-To support you further regarding contributing to this repository, a copy of this issue content has been created within the main repository. This will allow you to have the details locally without the need to be constantly connected to the internet and viewing the issue: [MAKE AN ARTICLE COPY ISSUE](MAKE_AN_ARTICLE_COPY_ISSUE_DATA.md "MAKE AN ARTICLE COPY ISSUE - ProfCyberNaught - Cybersecurity Blog")
+To support you further regarding contributing to this repository, a copy of this issue content has been created within the main repository. This will allow you to have the details locally without the need to be constantly connected to the internet and viewing the issue.<br /><br />
+
+To view this issue content, click the following link: [MAKE AN ARTICLE COPY ISSUE](MAKE_AN_ARTICLE_COPY_ISSUE_DATA.md "MAKE AN ARTICLE COPY ISSUE - ProfCyberNaught - Cybersecurity Blog")
 
 <ins>**Warning:</ins> non-trivial pull requests (anything such as fixing a typo) will be closed!** <br />`Please create an issue` to suggest such changes: [Create New Issue](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues "Create New Issue")
 
