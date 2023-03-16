@@ -496,6 +496,8 @@ $event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
 // Display on the screen the event response
 echo 'ProfCyberNaught Takes Off Mask: ' . $event_response;
 
+// EXAMPLE OUTPUT: ProfCyberNaught Takes Off Mask: Screams out loud!
+
 ?>
 ```
 
