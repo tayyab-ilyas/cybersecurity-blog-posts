@@ -183,7 +183,7 @@ You can copy the main body content text and paste this into the `blank template 
 
 Replace `[ARTICLE-CONTENT]` with the copied body content text:
 
-`
+```
 The term "click fix" refers to the idea that many non-technical people assume that any problem related to technology can be easily solved with just a few clicks. This is a play on the phrase "quick fix," which implies that a problem can be solved quickly and easily. The term 'click fix' is generally used in either photography for taking photos, or construction to enable a click-fix mechanism to attach two objects (essentially, in a quick manner). Prof Cyber Naught uses this term and relates it to the area of consumer understanding within the technical support industry.
 
 Many non-technical or non-IT peeps seem to have the understanding, just because somebody works in tech, they know how to fix things quickly. Instructions would go along the lines of... just a click here, just a click there... and DONE! In some simple scenarios, this can be the exact case.
@@ -197,7 +197,7 @@ Additionally, it's important for technology professionals to communicate effecti
 In short, not everything is a "click fix" in the world of technology and both technical and non-technical individuals need to understand and accept this reality.
 
 "Click Fix" - ProfCyberNaught
-`
+```
 
 **IMPORTANT INSTRUCTIONS:**<br />
 You must pay attention to the article content and whether or not this content has `bold text`, `italic text`, `underlined text`, potential `links` to other pages and websites, `lists`, `quotes` and more.
