@@ -57,7 +57,7 @@ In short, not everything is a "click fix" in the world of technology and both te
 <!-- TASK: Add the required data fields to the table below -->
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | -------------- | -------------- | ------- | ---------------- | --------- | ---------- |
-| Jan 22, 2023 | [Not Everything is a 'Click Fix'!]("https://profcybernaught.hashnode.dev/not-everything-is-a-click-fix") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Mar 06, 2023 | [Mannuel25](https://github.com/Mannuel25 "Mannuel25 on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| Jan 22, 2023 | [Not Everything is a 'Click Fix'!]("https://profcybernaught.hashnode.dev/not-everything-is-a-click-fix") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Mar 06, 2023 | [Mannuel25](https://github.com/Mannuel25 "Mannuel25 on GitHub") & [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- FOOTER TABLE -->
 
