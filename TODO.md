@@ -57,7 +57,7 @@ Standard template contains data:
 <br />_[Contains: header, subheading, paragraphs, bold, italics, keywords]_
 -->
 
-<style>blue { color: lightblue }</style>
+<style>blue { color: blue }</style>
 
 | ID | Title | Blog Link | Status |
 | -- | ----- | --------- | ------ |
