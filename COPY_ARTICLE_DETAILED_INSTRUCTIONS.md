@@ -483,7 +483,7 @@ function are_you_scared($scary_event) {
 
     else { // Nothing really happened
 
-        $did_something_happen = 'No! I am bored!'; // Sets response value
+        $did_something_happen = 'I am bored!'; // Sets response value
 
     }
 
@@ -497,6 +497,7 @@ $event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
 echo 'ProfCyberNaught Takes Off Mask: ' . $event_response;
 
 // EXAMPLE OUTPUT: ProfCyberNaught Takes Off Mask: Screams out loud!
+// EXAMPLE OUTPUT STRUCTURE: [message event passed into new 'are_you_scared()' function]: [Event Response]
 
 ?>
 ```
