@@ -79,7 +79,8 @@ If you prefer to learn the `GitHub Client commands`, please follow this link for
 
 **STEP 1:**
 
-- Comment on the `MAKE AN ARTICLE COPY` issue [MAKE AN ARTICLE COPY ISSUE](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues/43 "MAKE AN ARTICLE COPY ISSUE - ProfCyberNaught - Cybersecurity Blog")
+- Comment on the `MAKE AN ARTICLE COPY` issue
+    -  View Here: [MAKE AN ARTICLE COPY ISSUE](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues/43 "MAKE AN ARTICLE COPY ISSUE - ProfCyberNaught - Cybersecurity Blog")
     - Add a comment stating which article you would like to attempt
         - We may comment on your issue to confirm
         - We may give alternative instructions or a different article
