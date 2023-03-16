@@ -108,6 +108,7 @@ This project is running to support those new to the GitHub platform and are wish
 By contributing does not mean those people have co-authored the Cybersecurity Blog Posts. All blog posts were written by ProfCyberNaught, and copyright remains with ProfCyberNaught.
 
 If you wish to contribute to this project: [Contribution Documents](./CONTRIBUTING.md "Contribution Documents")
+There is an official open GitHub issue for contributing: [MAKE AN ARTICLE COPY ISSUE](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues/43 "MAKE AN ARTICLE COPY ISSUE")
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
