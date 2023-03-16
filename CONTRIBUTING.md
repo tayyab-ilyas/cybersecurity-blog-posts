@@ -69,16 +69,6 @@ _**GitHub Desktop** also has <ins>Microsoft telemetry activated by default</ins>
 > Unfortunately, there are other telemetry behaviours within your chosen operating system and/or software packages installed. Make sure you do your own research if you value your privacy like we do.
 <br />
 
-**NOT SURE HOW TO USE GITHUB DESKTOP OR CLIENT COMMANDS?**
-
-If you are not familiar with `Markdown Syntax`, please follow this link for further details: [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide")
-
-If you are not familiar with `Markdown Emojis`, please follow this link for further details: [Markdown Emojis - Shortcut Codes](https://github.com/ProfCyberNaught/markdown-emojis "Markdown Emojis - Shortcut Codes")
-
-If you are not familiar with `GitHub Desktop`, please follow this link for further details: [GitHub Desktop - Usage Instructions](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop "GitHub Desktop - Usage Instructions")
-
-If you prefer to learn the `GitHub Client commands`, please follow this link for further details: [GitHub Usage Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository "GitHub Usage Instructions")
-
 <!-- TABLE OF CONTENTS -->
 #### Table of Contents
   <ol>
