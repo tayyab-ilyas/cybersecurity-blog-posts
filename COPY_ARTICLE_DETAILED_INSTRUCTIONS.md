@@ -469,6 +469,8 @@ Below is an example of how a PHP code block looks in Markdown:
 /*                        */
 /**************************/
 
+// <<<<<< This is a PHP comment line.
+
 // Start new function
 function are_you_scared($scary_event) {
 
