@@ -25,7 +25,7 @@ Copying the Article Content
 
 Make sure you have already chosen which Cybersecurity blog article you would like to create a backup copy of: `CHOOSING AN ARTICLE`. Make sure you have checked the `MAKE AN ARTICLE COPY` issue for comments that might have already stated, somebody is copying this blog article.
 
-Double check the issue: [MAKE AN ARTICLE COPY](# "Make an Article Copy - Cybersecurity Blog - Beginner Friendly Issue - GitHub - ProfCyberNaught")
+Double check the issue: [MAKE AN ARTICLE COPY](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues/43 "Make an Article Copy - Cybersecurity Blog - Beginner Friendly Issue - GitHub - ProfCyberNaught")
 <br /><br />
 
 <a name="readme-contents"></a>
