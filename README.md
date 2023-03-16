@@ -74,6 +74,7 @@ Designed using Dark Mode: [Enable Now](https://github.com/settings/appearance "E
   <!-- HELP NOTICE: If you need more links, copy and paste from this list, create your section below, then add the section link tag
        Do not forget to update all the tag links if you change names of the sections below -->
     <li><a href="#about-the-cybersecurity-blog-posts">About Cybersecurity Blog Posts</a></li>
+    <li><a href="#contributions-made">Contributing</a></li>
     <li><a href="#a-list-of-cybersecurity-blog-posts-in-this-repository">Cybersecurity Blog Posts</a></li>
     <li><a href="#licensing-rights">Licensing Rights</a></li>
     <li><a href="#contact">Contact</a></li>
