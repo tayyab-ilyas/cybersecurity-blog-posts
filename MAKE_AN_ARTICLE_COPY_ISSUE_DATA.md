@@ -13,7 +13,9 @@
 
 This GitHub issue has been created with two primary objectives in mind. The first is to establish a backup repository for all the cybersecurity blog articles written and published by ProfCyberNaught, over on the cybersecurity website. This task would involve visiting the primary website and creating backup copies of chosen articles within the repository.
 
-The second objective is to provide an interactive learning opportunity for individuals new to GitHub. This can be accomplished by participating in the process of copying an article, following instructions and documentation, receiving support, having their work reviewed, and ultimately merging their contributions into the master branch. Through this initiative, newcomers can gain practical experience and improve their skills in using GitHub processes, contribute to a public repository, and get actively involved within the community.<br /><br />
+The second objective is to provide an interactive learning opportunity for individuals new to GitHub. This can be accomplished by participating in the process of copying an article, following instructions and documentation, receiving support, having their work reviewed, and ultimately merging their contributions into the master branch. Through this initiative, newcomers can gain practical experience and improve their skills in using GitHub processes, contribute to a public repository, and get actively involved within the community.
+
+THIS IS A COPY OF THE CONTENT FOR THE FOLLOWING ISSUE: [MAKE AN ARTICLE COPY ISSUE](https://github.com/ProfCyberNaught/cybersecurity-blog-posts/issues/43 "MAKE AN ARTICLE COPY ISSUE - ProfCyberNaught - Cybersecurity Blog")<br /><br />
 
 <a name="readme-contents"></a>
 
