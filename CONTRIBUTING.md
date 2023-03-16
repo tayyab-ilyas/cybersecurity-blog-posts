@@ -42,6 +42,43 @@ Contributing to the Cybersecurity Project
 If you wish to get involved in this project and copy over one of the articles from the main cybersecurity blog, you must follow the below steps to complete the process.
 <br /><br />
 
+### Assumptions Made
+We make the following assumptions about you:
+
+- You can speak English as per these instructions
+- You have registered for a GitHub account already
+- You are logged into your account via your chosen internet browser
+- You have read the additional information presented in the links below _(or at least will refer to it if required)_
+- You are familiar enough with your chosen operating system _(Windows, MacOS, Linux)_
+- You understand how to copy and paste data
+- You already have a text editor or _(IDE - Integrated Development Environment)_ code editor installed
+- You have Git, Github, GitHub Desktop installed or are using the web client interface
+- You have an active internet connection to view the main Cybersecurity website
+
+**IDE Suggestion:**<br />
+We suggest using an official code editor such as VSCodium, VSCode, Notepad++, Sublime Text and more. However, a standard text editor such as `Notepad(Windows)`, `GEdit(Linux)` or `TextEdit(MacOS)` will work just fine. Be careful about adding text formating and saving as a different file type _(must be `.md`)_.<br />
+
+We use Markdown for these pages and a link has been provided below with more additional instructions and examples. However, <ins>**we have documented in extensive detail many of the options available in Markdown**</ins>.
+
+**_PRIVACY ADVISORY NOTICE:_**
+<br />_**VSCode** has <ins>Microsoft telemetry activated by default</ins>. You can turn this off in the File > Options window. **VSCodium** <ins>does not</ins> have the Microsoft telemetry activated by default. Both are based on open-source software and free to use._<br />
+
+_**GitHub Desktop** also has <ins>Microsoft telemetry activated by default</ins>. This can also be disabled in the settings: File > Options > Advanced > Usage. This is also open-source software, although GitHub itself is closed-source._
+<br /><br />
+
+> Unfortunately, there are other telemetry behaviours within your chosen operating system and/or software packages installed. Make sure you do your own research if you value your privacy like we do.
+<br />
+
+**NOT SURE HOW TO USE GITHUB DESKTOP OR CLIENT COMMANDS?**
+
+If you are not familiar with `Markdown Syntax`, please follow this link for further details: [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Basic Syntax - Markdown Guide")
+
+If you are not familiar with `Markdown Emojis`, please follow this link for further details: [Markdown Emojis - Shortcut Codes](https://github.com/ProfCyberNaught/markdown-emojis "Markdown Emojis - Shortcut Codes")
+
+If you are not familiar with `GitHub Desktop`, please follow this link for further details: [GitHub Desktop - Usage Instructions](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop "GitHub Desktop - Usage Instructions")
+
+If you prefer to learn the `GitHub Client commands`, please follow this link for further details: [GitHub Usage Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository "GitHub Usage Instructions")
+
 <!-- TABLE OF CONTENTS -->
 #### Table of Contents
   <ol>
