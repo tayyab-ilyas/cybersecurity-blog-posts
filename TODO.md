@@ -57,9 +57,11 @@ Standard template contains data:
 <br />_[Contains: header, subheading, paragraphs, bold, italics, keywords]_
 -->
 
+<style>blue { color: lightblue }</style>
+
 | ID | Title | Blog Link | Status |
 | -- | ----- | --------- | ------ |
-| 27 | <span style="color:blue">**Cryptography: A Developer Essential Tool - Sodium Library: PHP**</span><br />_[Contains: header, subheading, paragraphs, bold, italics, keywords, links, inline codes, images, code blocks, dividers]_ | [VIEW](https://profcybernaught.hashnode.dev/cryptography-a-developer-essential-tool-sodium-library-php "Cryptography: A Developer Essential Tool - Sodium Library: PHP - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
+| 27 | <blue>**Cryptography: A Developer Essential Tool - Sodium Library: PHP**</blue><br />_[Contains: header, subheading, paragraphs, bold, italics, keywords, links, inline codes, images, code blocks, dividers]_ | [VIEW](https://profcybernaught.hashnode.dev/cryptography-a-developer-essential-tool-sodium-library-php "Cryptography: A Developer Essential Tool - Sodium Library: PHP - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | 26 | **Implications of Government Scanning Private Data Regardless of Platform**<br />_[Contains: header, subheading, paragraphs, bold, italics, keywords, ordered lists, blockquotes, dividers]_ | [VIEW](https://profcybernaught.hashnode.dev/implications-of-government-scanning-private-data-regardless-of-platform "Implications of Government Scanning Private Data Regardless of Platform - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | 25 | **Open Source or Closed Source Software?**<br />_[Contains: header, subheading, paragraphs, keywords]_ | [VIEW](https://profcybernaught.hashnode.dev/open-source-or-closed-source-software "Open Source or Closed Source Software? - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | 24 | **Email Encryption: OpenPGP, S/MIME and TLS**<br />_[Contains: header, subheading, paragraphs, bold, keywords]_ | [VIEW](https://profcybernaught.hashnode.dev/email-encryption-openpgp-smime-and-tls "Email Encryption: OpenPGP, S/MIME and TLS - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
