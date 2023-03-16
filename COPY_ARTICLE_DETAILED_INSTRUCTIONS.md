@@ -505,6 +505,8 @@ echo $event_data . ': ' . $event_response;
 ?>
 ```
 
+Even though you might not know how to code in PHP _(or any other coding language)_, we hope you are able to understand and follow along with our PHP code snippet above _(using the comments as directions)_.
+
 When trying to display programming code, you can either use three `backtick symbols(```)` at the beginning and end of your code snippet, or you can provide a language definition after the first three backticks ` ```php` to format the code correctly accordingly to language used.
 
 ```
