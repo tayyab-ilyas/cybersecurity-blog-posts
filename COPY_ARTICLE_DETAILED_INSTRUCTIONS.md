@@ -168,7 +168,7 @@ Replace `[ARTICLE-SUBTITLE]` with the copied title text:
 ```
 ## Not every tech thing is easy to fix...
 ```
-<br /><br />
+<br /> <br />
 
 <p align="right">(<a href="#readme-contents">back to contents</a>) (<a href="../../">back to main page</a>)</p>
 
