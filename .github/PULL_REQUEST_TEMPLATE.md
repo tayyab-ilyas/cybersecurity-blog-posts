@@ -22,9 +22,8 @@ Please use the following template to help submit your `new article` Pull request
 - [ ] (required) I have double checked my links use `HTTPS`.
 - [ ] (required) I have created a `new article file` _(incuding footer table)_.
 - [ ] (optional) I have created a `reference section`.
-- [ ] (required) I have updated the `README.md` file.
+- [ ] (required) I have updated the `TODO.md` file.
 - [ ] (required) I have added my `profile link` to the `article` file.
-- [ ] (required) I have added my `profile link` to the `README.md` file.
 - [ ] (optional) I used the `blank article template` file.
 
 Required and not optional:
@@ -36,28 +35,30 @@ Required and not optional:
 
 # About the article you have copied
 
-**Which article have you chosen to copy over?**
+**Which article have you chosen to copy over?**<br />
 Enter article title here:
 
-**Please provide a link to the article you have copied**
+**Please provide a link to the article you have copied**<br />
+Replace `[ARTICLE-TITLE]` with the title of your chosen article (x2).<br />
+Replace `[ARTICLE-URL]` with the url to the primary cybersecurity blog article.
 
 | Article Title | Main Blog Link |
-| --- | --- |
-| [ARTICLE-TITLE] | [BLOG LINK]([ARTICLE-URL])|
+| ------------- | -------------- |
+| [ARTICLE-TITLE] | [BLOG LINK]([ARTICLE-URL] "[ARTICLE-TITLE]")|
 
-**Please tell us the date you copied this article over**
+**Please tell us the date you copied this article over**<br />
 Enter date:
 
-**Did you have any issues when copying over the article from the main website?**
+**Did you have any issues when copying over the article from the main website?**<br />
 If yes, please enter any issues you had:
 
-**Do we need to implement further changes regarding this request?**
+**Do we need to implement further changes regarding this request?**<br />
 If yes, please provide additional comments:
 
-**Do you feel we need to provide additional documentation regarding this process?**
+**Do you feel we need to provide additional documentation regarding this process?**<br />
 If yes, please provide us with your additional details considered:
 
-**Additional Information**
+**Additional Information**<br />
 If yes, please provide the additional information you would like to include in your pull request:
 
 **Thank you for taking the time to copy an article from the main website over to this repository. Your assistance is very much appreciated.**
