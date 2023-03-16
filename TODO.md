@@ -87,8 +87,6 @@ Standard template contains data:
 | 2 | **Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare**<br />_<sub>[Contains: header, subheading, paragraphs, keywords]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/bio-neural-circuitry-voyagers-shield-against-the-borg-modern-cyber-warfare "Bio-Neural Circuitry: Voyager's Shield Against the Borg – Modern Cyber Warfare - ProfCyberNaught - Cybersecurity Blog") | :heavy_check_mark: |<!-- Divider -->
 | 1 | **Why Become a #Cybersecurity Engineer?**<br />_<sub>[Contains: header, subheading, paragraphs, keywords]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/why-become-a-cybersecurity-engineer "Why Become a #Cybersecurity Engineer? - ProfCyberNaught - Cybersecurity Blog") | :heavy_check_mark: |<!-- Divider -->
 
-<strike>Test Strike</strike>
-
 <!-- Table Row Template - Copy Data Below -->
 <!--
 | [ARTICLE-TITLE] | [VIEW]([ARTICLE-LINK] "[ARTICLE TITLE] - ProfCyberNaught - Cybersecurity Blog") | Not Copied |<!-- Divider -->
