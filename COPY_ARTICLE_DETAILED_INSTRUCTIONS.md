@@ -490,11 +490,14 @@ function are_you_scared($scary_event) {
     return $did_something_happen; // Returns response to use
 }
 
+// Event to take place
+$event_data = 'ProfCyberNaught Takes Off Mask';
+
 // Set variable using a call to the new function
-$event_response = are_you_scared('ProfCyberNaught Takes Off Mask');
+$event_response = are_you_scared($event_data);
 
 // Display on the screen the event response
-echo 'ProfCyberNaught Takes Off Mask: ' . $event_response;
+echo $event_data . ': ' . $event_response;
 
 // EXAMPLE OUTPUT: ProfCyberNaught Takes Off Mask: Screams out loud!
 // OUTPUT STRUCTURE: [message event passed into new 'are_you_scared()' function]: [Event Response]
