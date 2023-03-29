@@ -233,4 +233,12 @@ When contributing to this active repository, contributors have the option to inc
 
 > Cybersecurity, security, and privacy are topics that concern us all in this digital age. It is not just the responsibility of IT specialists or security/privacy experts to address these issues, but everyone's. Whether you are a student, a professional, or just an everyday internet user, you have a role to play in keeping yourself and others safe and private online. By contributing to this active repository, you are not only improving your own skills and knowledge, but also helping to raise awareness and promote best practices in cybersecurity and privacy. Your efforts are appreciated and valued in making the internet a safer and happier place for everyone.
 
+<!-- DISCLAIMER -->
+<br />
+
+> _**Disclaimer:** The content on this website is provided for educational purposes only. ProfCyberNaught is committed to providing unbiased and transparent writing, and aims to provide accurate and timely information. However, readers are advised to verify all facts and figures before making any decisions based on the information provided. Changes may occur after an article has been published that could affect the accuracy of the information. It is strongly recommended that you consult with a professional before making any decisions or taking any actions based on the information provided on this cybersecurity website._
+
+<br />
+<!-- DISCLAIMER -->
+
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="#readme-contents">back to contents</a>)</p>
