@@ -94,6 +94,8 @@ We make the following assumptions about you:
 - You have Git, Github, GitHub Desktop installed or are using the web client interface
 - You have an active internet connection to view the main Cybersecurity website
 
+**DISCLAIMER NOTICE:** _The disclaimer presented at the bottom of each article is already within the template file, the example article file, and the already copied articles. If you decide to start from scratch and create the file yourself, you must add the disclaimer._
+
 **IDE Suggestion:**<br />
 We suggest using an official code editor such as VSCodium, VSCode, Notepad++, Sublime Text and more. However, a standard text editor such as `Notepad(Windows)`, `GEdit(Linux)` or `TextEdit(MacOS)` will work just fine. Be careful about adding text formating and saving as a different file type _(must be `.md`)_.<br />
 

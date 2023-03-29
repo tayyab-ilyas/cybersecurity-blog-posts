@@ -36,5 +36,13 @@ In the end, Voyager's bio-neural circuitry proved to be its greatest asset, as w
 <!-- DATA FORMAT: Feb 25, 2023 -->
 <!-- [YOUR-GITHUB-URL-USERNAME] FORMAT: Must be as seen in your URL address bar -->
 
+<!-- DISCLAIMER -->
+<br />
+
+> _**Disclaimer:** The content on this website is provided for educational purposes only. ProfCyberNaught is committed to providing unbiased and transparent writing, and aims to provide accurate and timely information. However, readers are advised to verify all facts and figures before making any decisions based on the information provided. Changes may occur after an article has been published that could affect the accuracy of the information. It is strongly recommended that you consult with a professional before making any decisions or taking any actions based on the information provided on this cybersecurity website._
+
+<br />
+<!-- DISCLAIMER -->
+
 <!-- HELP NOTICE: All sections must end with the 'back to top' link and 'back to contents' link -->
 <p align="right">(<a href="#readme-top">back to top</a>) (<a href="../../../">back to contents</a>)</p>
