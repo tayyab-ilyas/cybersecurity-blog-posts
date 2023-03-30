@@ -129,7 +129,7 @@ One of the key benefits of using Tails is that it routes all internet traffic th
 
 Qubes OS is a free and open-source operating system that focuses on providing added security for its users. It uses a virtualization-based approach to security, where each task or application runs in its own isolated virtual machine. This allows for a more secure and compartmentalized system, as any potential security breaches or malware will be contained within the affected virtual machine and will not be able to spread to other parts of the system.
 
-One of the key benefits of using Qubes OS is its use of "qubes," or isolated virtual machines, for different tasks or applications. For example, one qube can be used for browsing the internet while another qube can be used for online banking. This allows for added security, as any potential malware or security breaches on the internet browsing qube will not be able to access the online banking qube. Additionally, Qubes OS also includes features such as AppArmor and firewalling to further enhance security. Overall, Qubes OS provides a highly secure and customizable environment for users who prioritize the protection of their personal and sensitive information.
+One of the key benefits of using Qubes OS is its use of "qubes," or isolated virtual machines, for different tasks or applications. For example, one qube can be used for browsing the internet while another qube can be used for online banking. This allows for added security, as any potential malware or security breaches on the internet browsing qube will not be able to access the online banking qube. Additionally, Qubes OS also includes features such as AppArmor and firewalling to further enhance security. Overall, Qubes OS provides a highly secure and customizable environment for users who prioritise the protection of their personal and sensitive information.
 
 ### Windows & Google Android
 
@@ -174,13 +174,13 @@ Educate your friends and your family because together, we can make positive chan
 
 ### **References and Further Reading:**
 
-- Tor. "Tor Browser." Tor Project, https://www.torproject.org/download/download-easy.html.en
-- Brave. "Brave Browser." Brave Software, https://brave.com/
-- OpenVPN. "What is a VPN?" OpenVPN, https://openvpn.net/what-is-a-vpn/
-- Cloudflare. "Encrypted DNS." Cloudflare, https://developers.cloudflare.com/1.1.1.1/dns/encrypted-dns/
-- ProtonMail. "ProtonMail Encryption." Proton Technologies, https://protonmail.com/encryption-overview/
-- Tails. "Tails - Privacy for Anyone Anywhere." Tails, https://tails.boum.org/
-- Qubes OS. "Qubes OS: A reasonably secure operating system." Qubes OS, https://www.qubes-os.org/
+- Tor. "Tor Browser." Tor Project, [Tor Browser](https://www.torproject.org/download/download-easy.html.en "Tor Browser")
+- Brave. "Brave Browser." Brave Software, [Brave Browser](https://brave.com/ "Brave Browser")
+- OpenVPN. "What is a VPN?" OpenVPN, [What Is a VPN?](https://openvpn.net/what-is-a-vpn/ "What Is a VPN?")
+- Cloudflare. "Encrypted DNS." Cloudflare, [Encrypted DNS](https://developers.cloudflare.com/1.1.1.1/dns/encrypted-dns/ "Encrypted DNS")
+- ProtonMail. "ProtonMail Encryption." Proton Technologies, [Proton Mail Encryption](https://proton.me/support/proton-mail-encryption-explained "Proton Mail Encryption")
+- Tails. "Tails - Privacy for Anyone Anywhere." Tails, [Tails - Privacy for Anyone Anywhere](https://tails.boum.org/ "Tails - Privacy for Anyone Anywhere")
+- Qubes OS. "Qubes OS: A reasonably secure operating system." Qubes OS, [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/ "Qubes OS: A reasonably secure operating system")
 - "Privacy and Security in the Internet of Things" by R. Rajesh, L. Ravi, and S. N. Merchant
 - "Security and Privacy in the Age of Surveillance" by J. H. Reich
 - "Internet Security and Privacy" by R. A. Roberts
@@ -249,7 +249,7 @@ Hopefully, the above detailed references and further reading section will give y
 <!-- TASK: Add the required data fields to the table below -->
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | -------------- | -------------- | ------- | ---------------- | --------- | ---------- |
-| Feb 26, 2023 | [Navigating the Digital World: Understanding Online Privacy, Security and How to Protect It](https://profcybernaught.hashnode.dev/navigating-the-digital-world-understanding-online-privacy-security-and-how-to-protect-it "Navigating the Digital World: Understanding Online Privacy, Security and How to Protect It") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [ Mar 30, 2023 ] | [peterkamlongera](https://github.com/peterkamlongera "peterkamlongera on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| Feb 26, 2023 | [Navigating the Digital World: Understanding Online Privacy, Security and How to Protect It](https://profcybernaught.hashnode.dev/navigating-the-digital-world-understanding-online-privacy-security-and-how-to-protect-it "Navigating the Digital World: Understanding Online Privacy, Security and How to Protect It") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Mar 30, 2023 | [peterkamlongera](https://github.com/peterkamlongera "peterkamlongera on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- FOOTER TABLE -->
 
