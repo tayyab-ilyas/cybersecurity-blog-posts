@@ -178,7 +178,7 @@ Educate your friends and your family because together, we can make positive chan
 - Brave. "Brave Browser." Brave Software, [Brave Browser](https://brave.com/ "Brave Browser")
 - OpenVPN. "What is a VPN?" OpenVPN, [What Is a VPN?](https://openvpn.net/what-is-a-vpn/ "What Is a VPN?")
 - Cloudflare. "Encrypted DNS." Cloudflare, [Encrypted DNS](https://developers.cloudflare.com/1.1.1.1/dns/encrypted-dns/ "Encrypted DNS")
-- ProtonMail. "ProtonMail Encryption." Proton Technologies, [Proton Mail Encryption](https://proton.me/support/proton-mail-encryption-explained "Proton Mail Encryption")
+- ProtonMail. "ProtonMail Encryption." Proton Technologies, [Proton Mail Encryption](https://proton.me/mail/security "Proton Mail Encryption")
 - Tails. "Tails - Privacy for Anyone Anywhere." Tails, [Tails - Privacy for Anyone Anywhere](https://tails.boum.org/ "Tails - Privacy for Anyone Anywhere")
 - Qubes OS. "Qubes OS: A reasonably secure operating system." Qubes OS, [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/ "Qubes OS: A reasonably secure operating system")
 - "Privacy and Security in the Internet of Things" by R. Rajesh, L. Ravi, and S. N. Merchant
