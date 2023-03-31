@@ -32,34 +32,9 @@ A cross :x: represents the article still needs copying over as a backup.<br /><b
 
 **The following table also represents the order in which the Cybersecurity articles were published on the main website.**
 
-<!-- 
-Content Type Keyword List:
-
-  header
-  subheading
-  content headings
-  paragraphs
-  bold
-  italics
-  strikethrough
-  ordered lists
-  unordered lists
-  blockquotes
-  dividers
-  keywords
-  references
-  links
-  inline codes
-  images
-  code blocks
-
-Standard template contains data:
-<br />_<sub>[Contains: header, subheading, paragraphs, bold, italics, keywords]</sub>_
--->
-
 | ID | Title | Blog Link | Status |
 | -- | ----- | --------- | ------ |
-| 29 | **Newcomer Repositories: How to Avoid the Pitfalls and Create a Thriving Open-Source Community**<br />_<sub>[Contains: header, subheading, content headings, paragraphs, bold, ordered lists, keywords,]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/newcomer-repositories-how-to-avoid-the-pitfalls-and-create-a-thriving-open-source-community "Newcomer Repositories: How to Avoid the Pitfalls and Create a Thriving Open-Source Community - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
+| 29 | **Newcomer Repositories: How to Avoid the Pitfalls and Create a Thriving Open-Source Community**<br />_<sub>[Contains: header, subheading, content headings, paragraphs, bold, ordered lists, keywords]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/newcomer-repositories-how-to-avoid-the-pitfalls-and-create-a-thriving-open-source-community "Newcomer Repositories: How to Avoid the Pitfalls and Create a Thriving Open-Source Community - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | 28 | **Introducing the PHP Directory Lister: A Customisable and Professional Directory Listing Experience**<br />_<sub>[Contains: header, subheading, paragraphs, bold, italics, keywords, links, images]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/php-directory-lister-non-recursive-customisable-professional-darkmode-theme "Introducing the PHP Directory Lister: A Customisable and Professional Directory Listing Experience - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | 27 | **Cryptography: A Developer Essential Tool - Sodium Library: PHP**<br />_<sub>[Contains: header, subheading, paragraphs, bold, italics, keywords, links, inline codes, images, code blocks, dividers]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/cryptography-a-developer-essential-tool-sodium-library-php "Cryptography: A Developer Essential Tool - Sodium Library: PHP - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
 | 26 | **Implications of Government Scanning Private Data Regardless of Platform**<br />_<sub>[Contains: header, subheading, paragraphs, bold, italics, keywords, ordered lists, blockquotes, dividers]</sub>_ | [VIEW](https://profcybernaught.hashnode.dev/implications-of-government-scanning-private-data-regardless-of-platform "Implications of Government Scanning Private Data Regardless of Platform - ProfCyberNaught - Cybersecurity Blog") | :x: |<!-- Divider -->
