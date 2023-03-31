@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="shortcut icon" type="image/x-icon" href="http://localhost/favicon-profcybernaught.ico">
+            <title>Article Content Types - ProfCyberNaught</title>
+            <style type="text/css">
+                :root{color-scheme:dark;}body{padding:0;margin:0;font-family:sans-serif;font-size:100%;line-height:100%;background: #121212;text-align: center;}@media only screen and (min-width:850px){.container{border:0.5px solid var(--dark-theme-color);max-width:768px;margin:30px auto;}}span{float:left;}h2{color: #5647ae;}.button{transition-duration:0.4s;background-color:#121212;border:1px solid #5647ae;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.button:hover{background-color:#5647ae;color:white;}.buttonCopy{transition-duration:0.4s;background-color:#5647ae;border:1px solid #5647ae;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.buttonCopy:hover{background-color:#121212;color:white;}.subheading{font-size:14px;}.additional_instructions{font-size:12px;}.footer{font-size:12px;text-align: center;}.header{text-align: center;}
+            </style>    
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h2>Content Type Data Creator</h2>
+                    <p class="subheading">Written using HTML, CSS, JavaScript</p>
+                </div>
+            <hr>
+            <p>This small script has been written to assist ProfCyberNaught to generate the content data types for pasting underneath the article title, within the article status table in the TODO.md file.</p>
+            <p>Please select the content data types used within your article <i class ="additional_instructions">(Buttons will disappear once selected, and data types will be listed below)</i>:</p>
+                <button class="button" id="header">Header</button>
+                <button class="button" id="subheading">Subheading</button>
+                <button class="button" id="content_headings">Content Headings</button>
+                <button class="button" id="paragraphs">Paragraphs</button>
+                <button class="button" id="bold">Bold</button>
+                <button class="button" id="italics">Italics</button>
+                <button class="button" id="strikethrough">Strikethrough</button>
+                <button class="button" id="ordered_lists">Ordered Lists</button>
+                <button class="button" id="unordered_lists">Unordered Lists</button>
+                <button class="button" id="blockquotes">Blockquotes</button>
+                <button class="button" id="dividers">Dividers</button>
+                <button class="button" id="links">Links</button>
+                <button class="button" id="inline_codes">Inline Codes</button>
+                <button class="button" id="images">Images</button>
+                <button class="button" id="code_blocks">Code Blocks</button>
+                <button class="button" id="smaller_text">Smaller Text</button>
+                <button class="button" id="tables">Tables</button>
+                <button class="button" id="aligned_tables">Aligned Tables</button>
+                <button class="button" id="task_list">Task List</button>
+                <button class="button" id="jump_to_section">Jump to Section</button>
+                <button class="button" id="foldable_text">Foldable Text</button>
+                <button class="button" id="hotkeys">Hotkeys</button>
+                <button class="button" id="emoji">Emoji</button>
+                <button class="button" id="footnotes">Footnotes</button>
+                <button class="button" id="references">References</button>
+                <button class="button" id="keywords">Keywords</button>
+            <p>
+                Below you will see the data you need to add underneath the article title name in the TODO.md article status table <i class ="additional_instructions">(This will create a vertical list below. When copied by clicking the copy data button, the data will be stored as a single line format in your clipboard. Once copied, paste this data between the < sub > tags)</i>.<br /><br /><button class="buttonCopy" id="buttonCopy" onclick="CopyToClipboard('content_types')">COPY DATA</button><hr><p class="footer">Copyright &copy; 2023 - ProfCyberNaught</p><hr>
+                <pre id="content_types">[Content: <span id="outputHeader"></span><span id="outputsubheading"></span><span id="outputcontent_headings"></span><span id="outputparagraphs"></span><span id="outputbold"></span><span id="outputitalics"></span><span id="outputstrikethrough"></span><span id="outputordered_lists"></span><span id="outputunordered_lists"></span><span id="outputblockquotes"></span><span id="outputdividers"></span><span id="outputlinks"></span><span id="outputinline_codes"></span><span id="outputimages"></span><span id="outputcode_blocks"></span><span id="outputsmaller_text"></span><span id="outputtables"></span><span id="outputaligned_tables"></span><span id="outputtask_list"></span><span id="outputjump_to_section"></span><span id="outputfoldable_text"></span><span id="outputhotkeys"></span><span id="outputemoji"></span><span id="outputfootnotes"></span><span id="outputreferences"></span><span id="outputkeywords"></span>]</pre>
+            </p>
+        </div>       
+            <script>
+                document.getElementById("header").onclick=function(){var header="header, ";document.getElementById("outputHeader").innerText=header;document.getElementById('header').style.display="none";}
+                document.getElementById("subheading").onclick=function(){var subheading="subheading, ";document.getElementById("outputsubheading").innerText=subheading;document.getElementById('subheading').style.display="none";}
+                document.getElementById("content_headings").onclick=function(){var content_headings="content headings, ";document.getElementById("outputcontent_headings").innerText=content_headings;document.getElementById('content_headings').style.display="none";}
+                document.getElementById("keywords").onclick=function(){var keywords="keywords";document.getElementById("outputkeywords").innerText=keywords;document.getElementById('keywords').style.display="none";}
+                document.getElementById("paragraphs").onclick=function(){var paragraphs="paragraphs, ";document.getElementById("outputparagraphs").innerText=paragraphs;document.getElementById('paragraphs').style.display="none";}
+                document.getElementById("bold").onclick=function(){var bold="bold, ";document.getElementById("outputbold").innerText=bold;document.getElementById('bold').style.display="none";}
+                document.getElementById("italics").onclick=function(){var italics="italics, ";document.getElementById("outputitalics").innerText=italics;document.getElementById('italics').style.display="none";}
+                document.getElementById("strikethrough").onclick=function(){var strikethrough="strikethrough, ";document.getElementById("outputstrikethrough").innerText=strikethrough;document.getElementById('strikethrough').style.display="none";}
+                document.getElementById("ordered_lists").onclick=function(){var ordered_lists="ordered lists, ";document.getElementById("outputordered_lists").innerText=ordered_lists;document.getElementById('ordered_lists').style.display="none";}
+                document.getElementById("unordered_lists").onclick=function(){var unordered_lists="unordered lists, ";document.getElementById("outputunordered_lists").innerText=unordered_lists;document.getElementById('unordered_lists').style.display="none";}
+                document.getElementById("blockquotes").onclick=function(){var blockquotes="blockquotes, ";document.getElementById("outputblockquotes").innerText=blockquotes;document.getElementById('blockquotes').style.display="none";}
+                document.getElementById("dividers").onclick=function(){var dividers="dividers, ";document.getElementById("outputdividers").innerText=dividers;document.getElementById('dividers').style.display="none";}
+                document.getElementById("references").onclick=function(){var references="references, ";document.getElementById("outputreferences").innerText=references;document.getElementById('references').style.display="none";}
+                document.getElementById("links").onclick=function(){var links="links, ";document.getElementById("outputlinks").innerText=links;document.getElementById('links').style.display="none";}
+                document.getElementById("inline_codes").onclick=function(){var inline_codes="inline codes, ";document.getElementById("outputinline_codes").innerText=inline_codes;document.getElementById('inline_codes').style.display="none";}
+                document.getElementById("images").onclick=function(){var images="images, ";document.getElementById("outputimages").innerText=images;document.getElementById('images').style.display="none";}
+                document.getElementById("code_blocks").onclick=function(){var code_blocks="code blocks, ";document.getElementById("outputcode_blocks").innerText=code_blocks;document.getElementById('code_blocks').style.display="none";}
+                document.getElementById("smaller_text").onclick=function(){var smaller_text="smaller text, ";document.getElementById("outputsmaller_text").innerText=smaller_text;document.getElementById('smaller_text').style.display="none";}
+                document.getElementById("tables").onclick=function(){var tables="tables, ";document.getElementById("outputtables").innerText=tables;document.getElementById('tables').style.display="none";}
+                document.getElementById("aligned_tables").onclick=function(){var aligned_tables="aligned tables, ";document.getElementById("outputaligned_tables").innerText=aligned_tables;document.getElementById('aligned_tables').style.display="none";}
+                document.getElementById("footnotes").onclick=function(){var footnotes="footnotes, ";document.getElementById("outputfootnotes").innerText=footnotes;document.getElementById('footnotes').style.display="none";}
+                document.getElementById("task_list").onclick=function(){var task_list="task list, ";document.getElementById("outputtask_list").innerText=task_list;document.getElementById('task_list').style.display="none";}
+                document.getElementById("jump_to_section").onclick=function(){var jump_to_section="jump to section, ";document.getElementById("outputjump_to_section").innerText=jump_to_section;document.getElementById('jump_to_section').style.display="none";}
+                document.getElementById("foldable_text").onclick=function(){var foldable_text="foldable text, ";document.getElementById("outputfoldable_text").innerText=foldable_text;document.getElementById('foldable_text').style.display="none";}
+                document.getElementById("hotkeys").onclick=function(){var hotkeys="hotkeys, ";document.getElementById("outputhotkeys").innerText=hotkeys;document.getElementById('hotkeys').style.display="none";}
+                document.getElementById("emoji").onclick=function(){var emoji="emoji, ";document.getElementById("outputemoji").innerText=emoji;document.getElementById('emoji').style.display="none";}
+                function CopyToClipboard(containerid){if (document.selection){var range=document.body.createTextRange();range.moveToElementText(document.getElementById(containerid));range.select().createTextRange();document.execCommand("copy");} else if(window.getSelection){var range=document.createRange();range.selectNode(document.getElementById(containerid));window.getSelection().addRange(range);document.execCommand("copy");}}
+            </script>
+        </body>
+    </html>
