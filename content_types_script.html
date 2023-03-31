@@ -43,38 +43,68 @@
                 <button class="button" id="references">References</button>
                 <button class="buttonDefault" id="keywords">Keywords</button>
             <p>
-                Below you will see the data you need to add underneath the article title name in the TODO.md article status table <i class ="additional_instructions">(When copied by clicking the copy data button, the data will be stored as a single line format in your clipboard. Once copied, paste this data between the < sub > tags)</i>.<br /><br /><button class="buttonCopy" id="buttonCopy" onclick="CopyToClipboard('content_types')">COPY DATA</button><br /><a class="buttonReset" href="">RESET</a><hr><p class="footer">Copyright &copy; 2023 - ProfCyberNaught</p><hr>
+                Below you will see the data you need to add underneath the article title name in the TODO.md article status table <i class ="additional_instructions">(When copied by clicking the copy data button, the data will be stored as a single line format in your clipboard. Once copied, paste this data between the < sub > tags)</i>.<br /><br /><button class="buttonCopy" id="buttonCopy" onclick="CopyToClipboard('content_types')">COPY DATA</button><br /><a class="buttonReset" onclick="reset()">RESET</a><hr><p class="footer">Copyright &copy; 2023 - ProfCyberNaught</p><hr>
                 <pre id="content_types">[Content: <span id="outputHeader"></span><span id="outputsubheading"></span><span id="outputcontent_headings"></span><span id="outputparagraphs"></span><span id="outputbold"></span><span id="outputitalics"></span><span id="outputstrikethrough"></span><span id="outputordered_lists"></span><span id="outputunordered_lists"></span><span id="outputblockquotes"></span><span id="outputdividers"></span><span id="outputlinks"></span><span id="outputinline_codes"></span><span id="outputimages"></span><span id="outputcode_blocks"></span><span id="outputsmaller_text"></span><span id="outputtables"></span><span id="outputaligned_tables"></span><span id="outputtask_list"></span><span id="outputjump_to_section"></span><span id="outputfoldable_text"></span><span id="outputhotkeys"></span><span id="outputemoji"></span><span id="outputfootnotes"></span><span id="outputreferences"></span><span id="outputkeywords"></span>]</pre>
             </p>
         </div>       
-            <script>
-                document.getElementById("header").onclick=function(){var header="header, ";document.getElementById("outputHeader").innerText=header;document.getElementById('header').style.display="none";}
-                document.getElementById("subheading").onclick=function(){var subheading="subheading, ";document.getElementById("outputsubheading").innerText=subheading;document.getElementById('subheading').style.display="none";}
-                document.getElementById("content_headings").onclick=function(){var content_headings="content headings, ";document.getElementById("outputcontent_headings").innerText=content_headings;document.getElementById('content_headings').style.display="none";}
-                document.getElementById("keywords").onclick=function(){var keywords="keywords";document.getElementById("outputkeywords").innerText=keywords;document.getElementById('keywords').style.display="none";}
-                document.getElementById("paragraphs").onclick=function(){var paragraphs="paragraphs, ";document.getElementById("outputparagraphs").innerText=paragraphs;document.getElementById('paragraphs').style.display="none";}
-                document.getElementById("bold").onclick=function(){var bold="bold, ";document.getElementById("outputbold").innerText=bold;document.getElementById('bold').style.display="none";}
-                document.getElementById("italics").onclick=function(){var italics="italics, ";document.getElementById("outputitalics").innerText=italics;document.getElementById('italics').style.display="none";}
-                document.getElementById("strikethrough").onclick=function(){var strikethrough="strikethrough, ";document.getElementById("outputstrikethrough").innerText=strikethrough;document.getElementById('strikethrough').style.display="none";}
-                document.getElementById("ordered_lists").onclick=function(){var ordered_lists="ordered lists, ";document.getElementById("outputordered_lists").innerText=ordered_lists;document.getElementById('ordered_lists').style.display="none";}
-                document.getElementById("unordered_lists").onclick=function(){var unordered_lists="unordered lists, ";document.getElementById("outputunordered_lists").innerText=unordered_lists;document.getElementById('unordered_lists').style.display="none";}
-                document.getElementById("blockquotes").onclick=function(){var blockquotes="blockquotes, ";document.getElementById("outputblockquotes").innerText=blockquotes;document.getElementById('blockquotes').style.display="none";}
-                document.getElementById("dividers").onclick=function(){var dividers="dividers, ";document.getElementById("outputdividers").innerText=dividers;document.getElementById('dividers').style.display="none";}
-                document.getElementById("references").onclick=function(){var references="references, ";document.getElementById("outputreferences").innerText=references;document.getElementById('references').style.display="none";}
-                document.getElementById("links").onclick=function(){var links="links, ";document.getElementById("outputlinks").innerText=links;document.getElementById('links').style.display="none";}
-                document.getElementById("inline_codes").onclick=function(){var inline_codes="inline codes, ";document.getElementById("outputinline_codes").innerText=inline_codes;document.getElementById('inline_codes').style.display="none";}
-                document.getElementById("images").onclick=function(){var images="images, ";document.getElementById("outputimages").innerText=images;document.getElementById('images').style.display="none";}
-                document.getElementById("code_blocks").onclick=function(){var code_blocks="code blocks, ";document.getElementById("outputcode_blocks").innerText=code_blocks;document.getElementById('code_blocks').style.display="none";}
-                document.getElementById("smaller_text").onclick=function(){var smaller_text="smaller text, ";document.getElementById("outputsmaller_text").innerText=smaller_text;document.getElementById('smaller_text').style.display="none";}
-                document.getElementById("tables").onclick=function(){var tables="tables, ";document.getElementById("outputtables").innerText=tables;document.getElementById('tables').style.display="none";}
-                document.getElementById("aligned_tables").onclick=function(){var aligned_tables="aligned tables, ";document.getElementById("outputaligned_tables").innerText=aligned_tables;document.getElementById('aligned_tables').style.display="none";}
-                document.getElementById("footnotes").onclick=function(){var footnotes="footnotes, ";document.getElementById("outputfootnotes").innerText=footnotes;document.getElementById('footnotes').style.display="none";}
-                document.getElementById("task_list").onclick=function(){var task_list="task list, ";document.getElementById("outputtask_list").innerText=task_list;document.getElementById('task_list').style.display="none";}
-                document.getElementById("jump_to_section").onclick=function(){var jump_to_section="jump to section, ";document.getElementById("outputjump_to_section").innerText=jump_to_section;document.getElementById('jump_to_section').style.display="none";}
-                document.getElementById("foldable_text").onclick=function(){var foldable_text="foldable text, ";document.getElementById("outputfoldable_text").innerText=foldable_text;document.getElementById('foldable_text').style.display="none";}
-                document.getElementById("hotkeys").onclick=function(){var hotkeys="hotkeys, ";document.getElementById("outputhotkeys").innerText=hotkeys;document.getElementById('hotkeys').style.display="none";}
-                document.getElementById("emoji").onclick=function(){var emoji="emoji, ";document.getElementById("outputemoji").innerText=emoji;document.getElementById('emoji').style.display="none";}
-                function CopyToClipboard(containerid){if (document.selection){var range=document.body.createTextRange();range.moveToElementText(document.getElementById(containerid));range.select().createTextRange();document.execCommand("copy");} else if(window.getSelection){var range=document.createRange();range.selectNode(document.getElementById(containerid));window.getSelection().addRange(range);document.execCommand("copy");}}
-            </script>
+        <script>
+            const elements = [
+                {id: "header", text: "header, ", output: "outputHeader"},
+                {id: "subheading", text: "subheading, ", output: "outputsubheading"},
+                {id: "content_headings", text: "content headings, ", output: "outputcontent_headings"},
+                {id: "keywords", text: "keywords", output: "outputkeywords"},
+                {id: "paragraphs", text: "paragraphs, ", output: "outputparagraphs"},
+                {id: "bold", text: "bold, ", output: "outputbold"},
+                {id: "italics", text: "italics, ", output: "outputitalics"},
+                {id: "strikethrough", text: "strikethrough, ", output: "outputstrikethrough"},
+                {id: "ordered_lists", text: "ordered lists, ", output: "outputordered_lists"},
+                {id: "unordered_lists", text: "unordered lists, ", output: "outputunordered_lists"},
+                {id: "blockquotes", text: "blockquotes, ", output: "outputblockquotes"},
+                {id: "dividers", text: "dividers, ", output: "outputdividers"},
+                {id: "references", text: "references, ", output: "outputreferences"},
+                {id: "links", text: "links, ", output: "outputlinks"},
+                {id: "inline_codes", text: "inline codes, ", output: "outputinline_codes"},
+                {id: "images", text: "images, ", output: "outputimages"},
+                {id: "code_blocks", text: "code blocks, ", output: "outputcode_blocks"},
+                {id: "smaller_text", text: "smaller text, ", output: "outputsmaller_text"},
+                {id: "tables", text: "tables, ", output: "outputtables"},
+                {id: "aligned_tables", text: "aligned tables, ", output: "outputaligned_tables"},
+                {id: "footnotes", text: "footnotes, ", output: "outputfootnotes"},
+                {id: "task_list", text: "task list, ", output: "outputtask_list"},
+                {id: "jump_to_section", text: "jump to section, ", output: "outputjump_to_section"},
+                {id: "foldable_text", text: "foldable text, ", output: "outputfoldable_text"},
+                {id: "hotkeys", text: "hotkeys, ", output: "outputhotkeys"},
+                {id: "emoji", text: "emoji, ", output: "outputemoji"}
+            ];
+            
+            elements.forEach(element => {
+                document.getElementById(element.id).onclick = function() {
+                    document.getElementById(element.output).innerText = element.text;
+                    document.getElementById(element.id).style.display = "none";
+                };
+            });
+        
+            function CopyToClipboard(containerid) {
+                if (document.selection) {
+                    var range = document.body.createTextRange();
+                    range.moveToElementText(document.getElementById(containerid));
+                    range.select().createTextRange();
+                    document.execCommand("copy");
+                } else if (window.getSelection) {
+                    var range = document.createRange();
+                    range.selectNode(document.getElementById(containerid));
+                    window.getSelection().addRange(range);
+                    document.execCommand("copy");
+                }
+            }
+            
+            function reset() {
+                for (const element of elements) {
+                    console.log(element.id);
+                    document.getElementById(element.output).innerText = "";
+                    document.getElementById(element.id).style.display = element.display || "inline-block";
+                }
+            }
+        </script>
         </body>
     </html>
