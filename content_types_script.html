@@ -4,7 +4,7 @@
             <link rel="shortcut icon" type="image/x-icon" href="http://localhost/favicon-profcybernaught.ico">
             <title>Article Content Types - ProfCyberNaught</title>
             <style type="text/css">
-                :root{color-scheme:dark;}body{padding:0;margin:0;font-family:sans-serif;font-size:100%;line-height:100%;background: #121212;text-align: center;}@media only screen and (min-width:850px){.container{border:0.5px solid var(--dark-theme-color);max-width:768px;margin:30px auto;}}span{float:left;}h2{color: #5647ae;}.button{transition-duration:0.4s;background-color:#121212;border:1px solid #5647ae;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.button:hover{background-color:#5647ae;color:white;}.buttonCopy{transition-duration:0.4s;background-color:#5647ae;border:1px solid #5647ae;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.buttonCopy:hover{background-color:#121212;color:white;}.subheading{font-size:14px;}.additional_instructions{font-size:12px;}.footer{font-size:12px;text-align: center;}.header{text-align: center;}
+                :root{color-scheme:dark;}body{padding:0;margin:0;font-family:sans-serif;font-size:100%;line-height:100%;background: #121212;text-align: center;}@media only screen and (min-width:850px){.container{border:0.5px solid var(--dark-theme-color);max-width:768px;margin:30px auto;}}span{float:left;}h2{color: #5647ae;}.button{transition-duration:0.4s;background-color:#121212;border:1px solid #5647ae;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.button:hover{background-color:#5647ae;color:white;}.buttonCopy{transition-duration:0.4s;background-color:#121212;border:1px solid #006400;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.buttonCopy:hover{background-color:#006400;color:white;}.buttonDefault{transition-duration:0.4s;background-color:#121212;border:1px solid #DC143C;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;}.buttonDefault:hover{background-color:#DC143C;color:white;}.subheading{font-size:14px;}.additional_instructions{font-size:12px;}.footer{font-size:12px;text-align: center;}.header{text-align: center;}
             </style>    
         </head>
         <body>
@@ -15,11 +15,11 @@
                 </div>
             <hr>
             <p>This small script has been written to assist ProfCyberNaught to generate the content data types for pasting underneath the article title, within the article status table in the TODO.md file.</p>
-            <p>Please select the content data types used within your article <i class ="additional_instructions">(Buttons will disappear once selected, and data types will be listed below)</i>:</p>
-                <button class="button" id="header">Header</button>
-                <button class="button" id="subheading">Subheading</button>
+            <p>Please select the content data types used within your article <i class ="additional_instructions">(Buttons will disappear once selected, and data types will be listed below. All red buttons highlight default data types used)</i>:</p>
+                <button class="buttonDefault" id="header">Header</button>
+                <button class="buttonDefault" id="subheading">Subheading</button>
                 <button class="button" id="content_headings">Content Headings</button>
-                <button class="button" id="paragraphs">Paragraphs</button>
+                <button class="buttonDefault" id="paragraphs">Paragraphs</button>
                 <button class="button" id="bold">Bold</button>
                 <button class="button" id="italics">Italics</button>
                 <button class="button" id="strikethrough">Strikethrough</button>
@@ -41,9 +41,9 @@
                 <button class="button" id="emoji">Emoji</button>
                 <button class="button" id="footnotes">Footnotes</button>
                 <button class="button" id="references">References</button>
-                <button class="button" id="keywords">Keywords</button>
+                <button class="buttonDefault" id="keywords">Keywords</button>
             <p>
-                Below you will see the data you need to add underneath the article title name in the TODO.md article status table <i class ="additional_instructions">(This will create a vertical list below. When copied by clicking the copy data button, the data will be stored as a single line format in your clipboard. Once copied, paste this data between the < sub > tags)</i>.<br /><br /><button class="buttonCopy" id="buttonCopy" onclick="CopyToClipboard('content_types')">COPY DATA</button><hr><p class="footer">Copyright &copy; 2023 - ProfCyberNaught</p><hr>
+                Below you will see the data you need to add underneath the article title name in the TODO.md article status table <i class ="additional_instructions">(When copied by clicking the copy data button, the data will be stored as a single line format in your clipboard. Once copied, paste this data between the < sub > tags)</i>.<br /><br /><button class="buttonCopy" id="buttonCopy" onclick="CopyToClipboard('content_types')">COPY DATA</button><hr><p class="footer">Copyright &copy; 2023 - ProfCyberNaught</p><hr>
                 <pre id="content_types">[Content: <span id="outputHeader"></span><span id="outputsubheading"></span><span id="outputcontent_headings"></span><span id="outputparagraphs"></span><span id="outputbold"></span><span id="outputitalics"></span><span id="outputstrikethrough"></span><span id="outputordered_lists"></span><span id="outputunordered_lists"></span><span id="outputblockquotes"></span><span id="outputdividers"></span><span id="outputlinks"></span><span id="outputinline_codes"></span><span id="outputimages"></span><span id="outputcode_blocks"></span><span id="outputsmaller_text"></span><span id="outputtables"></span><span id="outputaligned_tables"></span><span id="outputtask_list"></span><span id="outputjump_to_section"></span><span id="outputfoldable_text"></span><span id="outputhotkeys"></span><span id="outputemoji"></span><span id="outputfootnotes"></span><span id="outputreferences"></span><span id="outputkeywords"></span>]</pre>
             </p>
         </div>       
