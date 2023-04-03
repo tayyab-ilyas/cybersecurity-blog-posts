@@ -62,7 +62,7 @@ In summary, each of these encryption methods have their own advantages and disad
 
 
 <!-- Required Divider - References-->
----
+
 <!-- Required Divider - References-->
 
 <!-- REFERENCES -->
