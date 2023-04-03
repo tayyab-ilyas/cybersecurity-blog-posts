@@ -74,7 +74,7 @@ In summary, each of these encryption methods have their own advantages and disad
 <!-- TASK: Add the required data fields to the table below -->
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | -------------- | -------------- | ------- | ---------------- | --------- | ---------- |
-| MAR 2, 2023 | [Email Encryption: OpenPGP, S/MIME and TLS](https://profcybernaught.hashnode.dev/email-encryption-openpgp-smime-and-tls "Email Encryption: OpenPGP, S/MIME and TLS") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Apr 4, 2023 | [tayyab-ilyas](https://github.com/tayyab-ilyas "tayyab-ilyas on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| MAR 2, 2023 | [Email Encryption: OpenPGP, S/MIME and TLS](https://profcybernaught.hashnode.dev/email-encryption-openpgp-smime-and-tls "Email Encryption: OpenPGP, S/MIME and TLS") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Apr 3, 2023 | [tayyab-ilyas](https://github.com/tayyab-ilyas "tayyab-ilyas on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- FOOTER TABLE -->
 
